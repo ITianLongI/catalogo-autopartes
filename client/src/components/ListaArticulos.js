@@ -3,7 +3,7 @@ import axios from 'axios';
 import './ListaArticulos.css';
 import { useNavigate } from 'react-router-dom';
 
-const ListaArticulos = ({ carrito, añadirAlCarrito }) => { // Recibe carrito como prop
+const ListaArticulos = ({ carrito, añadirAlCarrito }) => {
   const navigate = useNavigate();
   const [articulos, setArticulos] = useState([]);
   const [cargando, setCargando] = useState(true);
@@ -17,33 +17,51 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => { // Recibe carrito co
   const handleSearch = (text) => {
     setSearchTerm(text);
     clearTimeout(timeoutId);
-    
-    const newTimeoutId = setTimeout(() => {
-      setCurrentPage(1);
-    }, 500);
-    
+    const newTimeoutId = setTimeout(() => setCurrentPage(1), 500);
     setTimeoutId(newTimeoutId);
   };
 
   useEffect(() => {
     const cargarArticulos = async () => {
       try {
-        const { data } = await axios.get(
-          `/api/articulos?page=${currentPage}&limit=${itemsPerPage}&search=${searchTerm}`);
-        setArticulos(data.articulos);
-        setTotalPages(Math.ceil(data.total / itemsPerPage));
+        const isProduction = process.env.NODE_ENV === 'production';
+        const baseURL = isProduction 
+          ? '/data/articulos.json' 
+          : 'http://localhost:5000/api/articulos';
+
+        let response;
+        
+        if (isProduction) {
+          response = await axios.get(baseURL);
+          const allItems = response.data;
+          const filtered = allItems.filter(item => 
+            item.descripcion.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            item.codigo.toLowerCase().includes(searchTerm.toLowerCase())
+          );
+          const start = (currentPage - 1) * itemsPerPage;
+          const end = start + itemsPerPage;
+          const paginated = filtered.slice(start, end);
+
+          setArticulos(paginated);
+          setTotalPages(Math.ceil(filtered.length / itemsPerPage));
+        } else {
+          response = await axios.get(baseURL, {
+            params: { page: currentPage, limit: itemsPerPage, search: searchTerm }
+          });
+          setArticulos(response.data.articulos);
+          setTotalPages(Math.ceil(response.data.total / itemsPerPage));
+        }
+
         setCargando(false);
       } catch (error) {
+        console.error('Error cargando datos:', error);
         setError('Error al cargar el catálogo');
         setCargando(false);
       }
     };
+    
     cargarArticulos();
   }, [currentPage, searchTerm]);
-
-  // Eliminar la función local de añadirAlCarrito
-  // Eliminar la función mostrarCarrito
-  // Eliminar el estado local del carrito
 
   const cambiarPagina = (nuevaPagina) => {
     if (nuevaPagina < 1 || nuevaPagina > totalPages) return;
@@ -60,7 +78,7 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => { // Recibe carrito co
   return (
     <div className="contenedor-app">
       <header className="barra-superior">
-        <div className="contenedor-buscador">
+      <div className="contenedor-buscador">
           <input
             type="text"
             placeholder="Buscar por nombre o código..."
@@ -73,10 +91,7 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => { // Recibe carrito co
         <div className="titulo-principal">
           <span>CATÁLOGO GENERAL</span>
         </div>
-        <button 
-          className="boton-carrito" 
-          onClick={() => navigate('/carrito')} // Cambiar a navegación
-        >
+        <button className="boton-carrito" onClick={mostrarCarrito}>
           CARRITO ({carrito.reduce((acc, item) => acc + item.cantidad, 0)})
         </button>
       </header>
@@ -107,7 +122,6 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => { // Recibe carrito co
           </article>
         ))}
       </main>
-      
       <div className="contenedor-paginacion">
         <button 
           className="boton-paginacion"

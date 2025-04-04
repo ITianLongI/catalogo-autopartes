@@ -3,31 +3,32 @@ const cors = require('cors');
 const fs = require('fs').promises;
 const path = require('path');
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
-// Configuración CORS
-app.use(cors({
-  origin: 'http://localhost:3000',
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
-  allowedHeaders: ['Content-Type']
-}));
+// Configuración para producción
+if (process.env.NODE_ENV === 'production') {
+  app.use(express.static(path.join(__dirname, 'client/build')));
+} else {
+  app.use(cors({ 
+    origin: 'http://localhost:3000',
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    allowedHeaders: ['Content-Type']
+  }));
+}
 
 app.use(express.json());
 
-// Servir imágenes estáticas
-app.use('/imagenes', express.static(path.join(__dirname, 'client', 'public', 'imagenes')));
-
-// Endpoint de artículos con paginación
+// Endpoint de artículos
 app.get('/api/articulos', async (req, res) => {
   try {
-    const dataPath = path.join(__dirname, 'data', 'articulos.json');
+    const dataPath = process.env.NODE_ENV === 'production'
+      ? path.join(__dirname, 'client/public/data/articulos.json')
+      : path.join(__dirname, 'data/articulos.json');
+
     const rawData = await fs.readFile(dataPath, 'utf8');
     let todosArticulos = JSON.parse(rawData);
 
-    // Parámetro de búsqueda
     const searchQuery = req.query.search?.toLowerCase() || '';
-
-    // Filtrar artículos si hay búsqueda
     if (searchQuery) {
       todosArticulos = todosArticulos.filter(articulo => 
         articulo.descripcion.toLowerCase().includes(searchQuery) ||
@@ -35,29 +36,16 @@ app.get('/api/articulos', async (req, res) => {
       );
     }
 
-    // Parámetros de paginación
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 20;
     const startIndex = (page - 1) * limit;
-    const endIndex = page * limit;
-
-    // Validación de parámetros
-    if (isNaN(page) || page < 1 || isNaN(limit) || limit < 1) {
-      return res.status(400).json({ 
-        error: 'Parámetros de paginación inválidos',
-        ejemplo_valido: '/api/articulos?page=1&limit=20'
-      });
-    }
-
-    // Preparar respuesta
-    const resultados = todosArticulos.slice(startIndex, endIndex);
-    const total = todosArticulos.length;
+    const resultados = todosArticulos.slice(startIndex, startIndex + limit);
 
     res.json({
       articulos: resultados,
-      total,
+      total: todosArticulos.length,
       page,
-      totalPages: Math.ceil(total / limit),
+      totalPages: Math.ceil(todosArticulos.length / limit),
       itemsPerPage: limit
     });
 
@@ -70,7 +58,13 @@ app.get('/api/articulos', async (req, res) => {
   }
 });
 
-// Iniciar servidor
+// Ruta para producción
+if (process.env.NODE_ENV === 'production') {
+  app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, 'client/build', 'index.html'));
+  });
+}
+
 app.listen(PORT, () => {
-  console.log(`✅ Servidor activo en http://localhost:${PORT}`);
+  console.log(`✅ Servidor ${process.env.NODE_ENV || 'development'} en puerto ${PORT}`);
 });
