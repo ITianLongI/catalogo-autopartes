@@ -1,0 +1,5350 @@
+[
+    {
+        "imagen": "/imagenes/imagen1.jpg",
+        "codigo": "ABC7209200",
+        "clave": "1198550606",
+        "descripcion": "IMITACION ANTENA T/CHEVY C/ANILLO CROMO",
+        "precio": "11492"
+    },
+    {
+        "imagen": "/imagenes/imagen2.jpg",
+        "codigo": "ABC7209600",
+        "clave": "1198550602",
+        "descripcion": "IMITACION ANTENA CORTA 3” (CH)",
+        "precio": "9802"
+    },
+    {
+        "imagen": "/imagenes/imagen3.jpg",
+        "codigo": "ABC7211600",
+        "clave": "1198886114",
+        "descripcion": "VAR.ANTENA VW.PG. RN 6.5” HULE (CH)",
+        "precio": "9633"
+    },
+    {
+        "imagen": "/imagenes/imagen4.jpg",
+        "codigo": "ABC7224100",
+        "clave": "1298550613",
+        "descripcion": "ANTENA DECORATIVA\n19.5 cm",
+        "precio": "11154"
+    },
+    {
+        "imagen": "/imagenes/imagen5.jpg",
+        "codigo": "ABC7224900",
+        "clave": "1298550621",
+        "descripcion": "IMITACION ANTENA",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen6.jpg",
+        "codigo": "BCC5304100",
+        "clave": "4198212103",
+        "descripcion": "PITO NEUMATICA DOBLE MULTV",
+        "precio": "60840"
+    },
+    {
+        "imagen": "/imagenes/imagen7.jpg",
+        "codigo": "CHC6104400",
+        "clave": "1198220215",
+        "descripcion": "CHAPA DE SEGURIDAD 2 CILINDROS",
+        "precio": "38870"
+    },
+    {
+        "imagen": "/imagenes/imagen8.jpg",
+        "codigo": "FAC7614800",
+        "clave": "6275902801",
+        "descripcion": "PAR EXPLORADORAS NISSAN LED CON LUPA 12V",
+        "precio": "226460"
+    },
+    {
+        "imagen": "/imagenes/imagen9.jpg",
+        "codigo": "FAC7614900",
+        "clave": "6275902802",
+        "descripcion": "PAR EXPLORADORA LED CON LUPA 12V",
+        "precio": "226460"
+    },
+    {
+        "imagen": "/imagenes/imagen10.jpg",
+        "codigo": "FAC7615500",
+        "clave": "6275902808",
+        "descripcion": "PAR EXPLORADORA LED CON LUPA 12V",
+        "precio": "226460"
+    },
+    {
+        "imagen": "/imagenes/imagen11.jpg",
+        "codigo": "FBC0000200",
+        "clave": "4198331007",
+        "descripcion": "STOP F1 ROJO",
+        "precio": "20618"
+    },
+    {
+        "imagen": "/imagenes/imagen12.jpg",
+        "codigo": "FBC0000300",
+        "clave": "4198331008",
+        "descripcion": "STOP F1 AMARILLO",
+        "precio": "20618"
+    },
+    {
+        "imagen": "/imagenes/imagen13.jpg",
+        "codigo": "FBC0000500",
+        "clave": "4198331010",
+        "descripcion": "STOP F1 AZUL",
+        "precio": "20618"
+    },
+    {
+        "imagen": "/imagenes/imagen14.jpg",
+        "codigo": "FCC5704700",
+        "clave": "4598180502",
+        "descripcion": "FOCO 31mm 12 LED AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen15.jpg",
+        "codigo": "FCC5704800",
+        "clave": "4598180503",
+        "descripcion": "FOCO 31mm 12 LED ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen16.jpg",
+        "codigo": "FCC5704900",
+        "clave": "4598180504",
+        "descripcion": "FOCO 31mm 12 LED VERDE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen17.jpg",
+        "codigo": "FCC5705200",
+        "clave": "4598180507",
+        "descripcion": "FOCO 36mm 15 LED BLANCO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen18.jpg",
+        "codigo": "FCC5705300",
+        "clave": "4598180508",
+        "descripcion": "FOCO 36mm 15 LED AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen19.jpg",
+        "codigo": "FCC5705400",
+        "clave": "4598180509",
+        "descripcion": "FOCO 36mm 15 LED ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen20.jpg",
+        "codigo": "FCC5705500",
+        "clave": "4598180510",
+        "descripcion": "FOCO 36mm 15 LED VERDE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen21.jpg",
+        "codigo": "FCC5705600",
+        "clave": "4598180511",
+        "descripcion": "FOCO 36mm 15 LED ICE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen22.jpg",
+        "codigo": "FCC5705800",
+        "clave": "4598180513",
+        "descripcion": "FOCO 39mm 18 LED BLANCO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen23.jpg",
+        "codigo": "FCC5705900",
+        "clave": "4598180514",
+        "descripcion": "FOCO 39mm 18 LED AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen24.jpg",
+        "codigo": "FCC5706000",
+        "clave": "4598180515",
+        "descripcion": "FOCO 39mm 18 LED ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen25.jpg",
+        "codigo": "FCC5706100",
+        "clave": "4598180516",
+        "descripcion": "FOCO 39mm 18 LED VERDE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen26.jpg",
+        "codigo": "FCC5706200",
+        "clave": "4598180517",
+        "descripcion": "FOCO 39mm 18 LED ICE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen27.jpg",
+        "codigo": "FCC5706400",
+        "clave": "4598180519",
+        "descripcion": "FOCO 41mm 18 LED BLANCO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen28.jpg",
+        "codigo": "FCC5706500",
+        "clave": "4598180520",
+        "descripcion": "FOCO 41mm 18 LED AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen29.jpg",
+        "codigo": "FCC5706600",
+        "clave": "4598180521",
+        "descripcion": "FOCO 41mm 18 LED ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen30.jpg",
+        "codigo": "FCC5706700",
+        "clave": "4598180522",
+        "descripcion": "FOCO 41mm 18 LED VERDE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen31.jpg",
+        "codigo": "FCC5706800",
+        "clave": "4598180523",
+        "descripcion": "FOCO 41mm 18 LED ICE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen32.jpg",
+        "codigo": "FCC5707000",
+        "clave": "4598180525",
+        "descripcion": "FOCO 31mm 8 LED BLANCO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen33.jpg",
+        "codigo": "FCC5707100",
+        "clave": "4598180526",
+        "descripcion": "FOCO 31mm 8 LED AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen34.jpg",
+        "codigo": "FCC5707200",
+        "clave": "4598180527",
+        "descripcion": "FOCO 31mm 8 LED ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen35.jpg",
+        "codigo": "FCC5707300",
+        "clave": "4598180528",
+        "descripcion": "FOCO 31mm 8 LED VERDE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen36.jpg",
+        "codigo": "FCC5707400",
+        "clave": "4598180529",
+        "descripcion": "FOCO 31mm 8 LED ICE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen37.jpg",
+        "codigo": "FCC5707500",
+        "clave": "4598180530",
+        "descripcion": "FOCO 36mm 10 LED BLANCO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen38.jpg",
+        "codigo": "FCC5707600",
+        "clave": "4598180531",
+        "descripcion": "FOCO 36mm 10 LED AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen39.jpg",
+        "codigo": "FCC5707800",
+        "clave": "4598180532",
+        "descripcion": "FOCO 36mm 10 LED ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen40.jpg",
+        "codigo": "FCC5707900",
+        "clave": "4598180533",
+        "descripcion": "FOCO 36mm 10 LED VERDE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen41.jpg",
+        "codigo": "FCC5708000",
+        "clave": "4598180534",
+        "descripcion": "FOCO 36mm 10 LED ICE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen42.jpg",
+        "codigo": "FCC5708100",
+        "clave": "4598180535",
+        "descripcion": "FOCO 39mm 10 LED BLANCO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen43.jpg",
+        "codigo": "FCC5708200",
+        "clave": "4598180536",
+        "descripcion": "FOCO 39mm 10 LED AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen44.jpg",
+        "codigo": "FCC5708300",
+        "clave": "4598180537",
+        "descripcion": "FOCO 39mm 10 LED ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen45.jpg",
+        "codigo": "FCC5708400",
+        "clave": "4598180538",
+        "descripcion": "FOCO 39mm 10 LED VERDE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen46.jpg",
+        "codigo": "FCC5708500",
+        "clave": "4598180539",
+        "descripcion": "FOCO 39mm 10 LED ICE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen47.jpg",
+        "codigo": "FCC5708700",
+        "clave": "4598180540",
+        "descripcion": "FOCO 41mm 18 LED BLANCO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen48.jpg",
+        "codigo": "FCC5708800",
+        "clave": "4598180541",
+        "descripcion": "FOCO 41mm 18 LED AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen49.jpg",
+        "codigo": "FCC5708900",
+        "clave": "4598180542",
+        "descripcion": "FOCO 41mm 18 LED ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen50.jpg",
+        "codigo": "FCC5709000",
+        "clave": "4598180543",
+        "descripcion": "FOCO 41mm 18 LED VERDE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen51.jpg",
+        "codigo": "FCC5709100",
+        "clave": "4598180544",
+        "descripcion": "FOCO 41mm 18 LED ICE",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen52.jpg",
+        "codigo": "FCC5709200",
+        "clave": "4598180545",
+        "descripcion": "PLACA LUZ INTERIOR 30 LED BLANCO",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen53.jpg",
+        "codigo": "FCC5709300",
+        "clave": "4598180546",
+        "descripcion": "PLACA LUZ INTERIOR 30 LED AZUL",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen54.jpg",
+        "codigo": "FCC5709400",
+        "clave": "4598180547",
+        "descripcion": "PLACA LUZ INTERIOR 30 LED ROJO",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen55.jpg",
+        "codigo": "FCC5709500",
+        "clave": "4598180548",
+        "descripcion": "PLACA LUZ INTERIOR 30 LED VERDE",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen56.jpg",
+        "codigo": "FCC5709600",
+        "clave": "4598180549",
+        "descripcion": "PLACA LUZ INTERIOR 30 LED ICE",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen57.jpg",
+        "codigo": "FCC5709800",
+        "clave": "4598180551",
+        "descripcion": "PLACA LUZ INTERIOR 54 LED BLANCO",
+        "precio": "8281"
+    },
+    {
+        "imagen": "/imagenes/imagen58.jpg",
+        "codigo": "FCC5709900",
+        "clave": "4598180552",
+        "descripcion": "PLACA LUZ INTERIOR 54 LED AZUL",
+        "precio": "8281"
+    },
+    {
+        "imagen": "/imagenes/imagen59.jpg",
+        "codigo": "FCC5710000",
+        "clave": "4598180553",
+        "descripcion": "PLACA LUZ INTERIOR 54 LED ROJO",
+        "precio": "8281"
+    },
+    {
+        "imagen": "/imagenes/imagen60.jpg",
+        "codigo": "FCC5710100",
+        "clave": "4598180554",
+        "descripcion": "PLACA LUZ INTERIOR 54 LED VERDE",
+        "precio": "8281"
+    },
+    {
+        "imagen": "/imagenes/imagen61.jpg",
+        "codigo": "FCC5710200",
+        "clave": "4598180555",
+        "descripcion": "PLACA LUZ INTERIOR 54 LED ICE",
+        "precio": "8281"
+    },
+    {
+        "imagen": "/imagenes/imagen62.jpg",
+        "codigo": "FCC5710400",
+        "clave": "4598180557",
+        "descripcion": "PLACA LUZ INTERIOR 117 LED BLANCO",
+        "precio": "9802"
+    },
+    {
+        "imagen": "/imagenes/imagen63.jpg",
+        "codigo": "FCC5710500",
+        "clave": "4598180558",
+        "descripcion": "PLACA LUZ INTERIOR 117 LED AZUL",
+        "precio": "9802"
+    },
+    {
+        "imagen": "/imagenes/imagen64.jpg",
+        "codigo": "FCC5710600",
+        "clave": "4598180559",
+        "descripcion": "PLACA LUZ INTERIOR 117 LED ROJO",
+        "precio": "9802"
+    },
+    {
+        "imagen": "/imagenes/imagen65.jpg",
+        "codigo": "FCC5710700",
+        "clave": "4598180560",
+        "descripcion": "PLACA LUZ INTERIOR 117 LED VERDE",
+        "precio": "9802"
+    },
+    {
+        "imagen": "/imagenes/imagen66.jpg",
+        "codigo": "FCC5710800",
+        "clave": "4598180561",
+        "descripcion": "PLACA LUZ INTERIOR 117 LED ICE",
+        "precio": "9802"
+    },
+    {
+        "imagen": "/imagenes/imagen67.jpg",
+        "codigo": "FDC3000100",
+        "clave": "4198190621",
+        "descripcion": "FLASH DE EMERGENCIA AMBAR",
+        "precio": "20280"
+    },
+    {
+        "imagen": "/imagenes/imagen68.jpg",
+        "codigo": "FDC3000400",
+        "clave": "4198190624",
+        "descripcion": "FLASH DE EMERGENCIA AMBAR",
+        "precio": "23660"
+    },
+    {
+        "imagen": "/imagenes/imagen69.jpg",
+        "codigo": "FDC3000700",
+        "clave": "4198190627",
+        "descripcion": "FLASH DE EMERGENCIA AMBAR",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen70.jpg",
+        "codigo": "FDC3001000",
+        "clave": "4198190630",
+        "descripcion": "FLASH DE EMERGENCIA AMBAR",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen71.jpg",
+        "codigo": "FDC3001200",
+        "clave": "4198190632",
+        "descripcion": "FLASH DE EMERGENCIA BALNCO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen72.jpg",
+        "codigo": "FDC3001300",
+        "clave": "4198190633",
+        "descripcion": "FLASH DE EMERGENCIA AMBAR",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen73.jpg",
+        "codigo": "FDC3100100",
+        "clave": "4198190670",
+        "descripcion": "FLASH DE EMERGENCIA 4 LEDS",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen74.jpg",
+        "codigo": "FDC3100200",
+        "clave": "4198190671",
+        "descripcion": "FLASH DE EMERGENCIA 4 LEDS",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen75.jpg",
+        "codigo": "FDC3100300",
+        "clave": "4198190672",
+        "descripcion": "FLASH DE EMERGENCIA 4 LEDS",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen76.jpg",
+        "codigo": "FDC3100400",
+        "clave": "4198190673",
+        "descripcion": "FLASH DE EMERGENCIA 4 LEDS",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen77.jpg",
+        "codigo": "FDC3100500",
+        "clave": "4198190674",
+        "descripcion": "FLASH DE EMERGENCIA 6 LEDS",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen78.jpg",
+        "codigo": "FDC3100800",
+        "clave": "4198190677",
+        "descripcion": "FLASH DE EMERGENCIA 6 LEDS",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen79.jpg",
+        "codigo": "FDC3100900",
+        "clave": "4198190678",
+        "descripcion": "FLASH DE EMERGENCIA 8 LEDS",
+        "precio": "26026"
+    },
+    {
+        "imagen": "/imagenes/imagen80.jpg",
+        "codigo": "FDC3101000",
+        "clave": "4198190679",
+        "descripcion": "FLASH DE EMERGENCIA 8 LEDS",
+        "precio": "26026"
+    },
+    {
+        "imagen": "/imagenes/imagen81.jpg",
+        "codigo": "FDC3101100",
+        "clave": "4198190680",
+        "descripcion": "FLASH DE EMERGENCIA 8 LEDS",
+        "precio": "26026"
+    },
+    {
+        "imagen": "/imagenes/imagen82.jpg",
+        "codigo": "FDC3101200",
+        "clave": "4198190681",
+        "descripcion": "FLASH DE EMERGENCIA 8 LEDS",
+        "precio": "26026"
+    },
+    {
+        "imagen": "/imagenes/imagen83.jpg",
+        "codigo": "FDC5292500",
+        "clave": "4198835620",
+        "descripcion": "TORRETA COYAC AMBAR MULTIVO",
+        "precio": "54080"
+    },
+    {
+        "imagen": "/imagenes/imagen84.jpg",
+        "codigo": "FDC5294100",
+        "clave": "4198835632",
+        "descripcion": "LICUADORA DE LED AMBAR MULTIVO",
+        "precio": "540800"
+    },
+    {
+        "imagen": "/imagenes/imagen85.jpg",
+        "codigo": "FDC5294300",
+        "clave": "4198835634",
+        "descripcion": "LICUADORA DE LED AMBAR MULTIVO",
+        "precio": "371800"
+    },
+    {
+        "imagen": "/imagenes/imagen86.jpg",
+        "codigo": "FDC5294400",
+        "clave": "4198835635",
+        "descripcion": "LICUADORA DE LED AMBAR MULTIVO",
+        "precio": "317720"
+    },
+    {
+        "imagen": "/imagenes/imagen87.jpg",
+        "codigo": "FDC5294800",
+        "clave": "4198835639",
+        "descripcion": "LICUADORA DE LED AMBAR MULTIVO",
+        "precio": "130130"
+    },
+    {
+        "imagen": "/imagenes/imagen88.jpg",
+        "codigo": "FDC5297900",
+        "clave": "4198835659",
+        "descripcion": "LICUADORA DE LED MULTIVO",
+        "precio": "98020"
+    },
+    {
+        "imagen": "/imagenes/imagen89.jpg",
+        "codigo": "FDC5298400",
+        "clave": "4198835664",
+        "descripcion": "LICUADORA DE LED MULTOVO",
+        "precio": "114920"
+    },
+    {
+        "imagen": "/imagenes/imagen90.jpg",
+        "codigo": "FDC6000100",
+        "clave": "4198835665",
+        "descripcion": "BARRA STROBOSCOPICA 2MDS AMBAR 7 P 12/24",
+        "precio": "52390"
+    },
+    {
+        "imagen": "/imagenes/imagen91.jpg",
+        "codigo": "FDC6000300",
+        "clave": "4198835667",
+        "descripcion": "BARRA STROBOSCOPICA 4MDS AMBAR 7 P  12/24",
+        "precio": "89570"
+    },
+    {
+        "imagen": "/imagenes/imagen92.jpg",
+        "codigo": "FDC6000400",
+        "clave": "4198835668",
+        "descripcion": "BARRA STROBOSCOPICA 5MDS AMBAR 7 P  12/24",
+        "precio": "106470"
+    },
+    {
+        "imagen": "/imagenes/imagen93.jpg",
+        "codigo": "FDC6000500",
+        "clave": "4198835669",
+        "descripcion": "BARRA STROBOSCOPICA 6 MDS AMBAR 7P  12/24",
+        "precio": "125060"
+    },
+    {
+        "imagen": "/imagenes/imagen94.jpg",
+        "codigo": "FDC6000600",
+        "clave": "4198835670",
+        "descripcion": "BARRA STROBOSCOPICA 7 MDS AMBAR 7P  12/24",
+        "precio": "140270"
+    },
+    {
+        "imagen": "/imagenes/imagen95.jpg",
+        "codigo": "FDC6000700",
+        "clave": "4198835671",
+        "descripcion": "BARRA STROBOSCOPICS 8MDS AMBAR 7P 12/24",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen96.jpg",
+        "codigo": "FDC6000800",
+        "clave": "4198835672",
+        "descripcion": "BARRA STROBOSCOPICA 2 MDS AMBAR 7P  12/24",
+        "precio": "54080"
+    },
+    {
+        "imagen": "/imagenes/imagen97.jpg",
+        "codigo": "FDC6000900",
+        "clave": "4198835673",
+        "descripcion": "BARRA STROBOSCOPICA 3 MDS AMBAR 7P  12/24",
+        "precio": "77740"
+    },
+    {
+        "imagen": "/imagenes/imagen98.jpg",
+        "codigo": "FDC6001000",
+        "clave": "4198835674",
+        "descripcion": "BARRA STROBOSCOPICA 4 MDS AMBAR 7P 12/24",
+        "precio": "96330"
+    },
+    {
+        "imagen": "/imagenes/imagen99.jpg",
+        "codigo": "FDC6001100",
+        "clave": "4198835675",
+        "descripcion": "BARRA STROBOSCOPICA 5 MDS AMBAR 7P 12/24",
+        "precio": "123370"
+    },
+    {
+        "imagen": "/imagenes/imagen100.jpg",
+        "codigo": "FDC6001200",
+        "clave": "4198835676",
+        "descripcion": "BARRA STROBOSCOPICA 6 MDS AMBAR 7P  12/24",
+        "precio": "140270"
+    },
+    {
+        "imagen": "/imagenes/imagen101.jpg",
+        "codigo": "FDC6001300",
+        "clave": "4198835677",
+        "descripcion": "BARRA STROBOSCOPICA 7 MDS AMBAR 7P 12/24",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen102.jpg",
+        "codigo": "FDC6100200",
+        "clave": "4198833102",
+        "descripcion": "BARRA STROBOSCOPICA\n35.5cm 3 M. AZUL/ ROJO 12/24",
+        "precio": "74360"
+    },
+    {
+        "imagen": "/imagenes/imagen103.jpg",
+        "codigo": "FDC6100300",
+        "clave": "4198833103",
+        "descripcion": "BARRA STROBOSCOPICA\n46.5cm 4M AZUL/ROJO\n12/24",
+        "precio": "89570"
+    },
+    {
+        "imagen": "/imagenes/imagen104.jpg",
+        "codigo": "FDC6100400",
+        "clave": "4198833104",
+        "descripcion": "BARRA STROBOSCOPICA\n57.5cm 5M AZUL/ROJO\n12/24",
+        "precio": "106470"
+    },
+    {
+        "imagen": "/imagenes/imagen105.jpg",
+        "codigo": "FDC6100500",
+        "clave": "4198833105",
+        "descripcion": "BARRA STROBOSCOPICA\n68.5cm 6M AZUL/ROJO\n12/24",
+        "precio": "125060"
+    },
+    {
+        "imagen": "/imagenes/imagen106.jpg",
+        "codigo": "FDC6100600",
+        "clave": "4198833106",
+        "descripcion": "BARRA STROBOSCOPICA\n79.5cm 7M AZUL/ROJO\n12/24",
+        "precio": "140270"
+    },
+    {
+        "imagen": "/imagenes/imagen107.jpg",
+        "codigo": "FDC6100700",
+        "clave": "4198833107",
+        "descripcion": "BARRA STROBOSCOPICA 90.5cm 8M AZUL/ROJO\n12/24",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen108.jpg",
+        "codigo": "FDC6100800",
+        "clave": "4198833108",
+        "descripcion": "BARRA STROBOSCOPICA 32CM 2 M. AZUL/ROJO 12/ 24",
+        "precio": "54080"
+    },
+    {
+        "imagen": "/imagenes/imagen109.jpg",
+        "codigo": "FDC6100900",
+        "clave": "4198833109",
+        "descripcion": "BARRA STROBOSCOPICA\n47.5cm 3 M. AZUL/ROJ\n12/24",
+        "precio": "77740"
+    },
+    {
+        "imagen": "/imagenes/imagen110.jpg",
+        "codigo": "FDC6101000",
+        "clave": "4198833110",
+        "descripcion": "BARRA STROBOSCOPICA\n62.5cm 4 M. AZUL/ROJ\n12/24",
+        "precio": "96330"
+    },
+    {
+        "imagen": "/imagenes/imagen111.jpg",
+        "codigo": "FDC6101100",
+        "clave": "4198833111",
+        "descripcion": "BARRA STROBOSCOPICA\n77.5cm 5 M. AZUL/ROJ\n12/24",
+        "precio": "123370"
+    },
+    {
+        "imagen": "/imagenes/imagen112.jpg",
+        "codigo": "FDC6101200",
+        "clave": "4198833112",
+        "descripcion": "BARRA STROBOSCOPICA\n92.5cm 6 M. AZUL/ROJ\n12/24",
+        "precio": "140270"
+    },
+    {
+        "imagen": "/imagenes/imagen113.jpg",
+        "codigo": "FDC6101300",
+        "clave": "4198833113",
+        "descripcion": "BARRA STROBOSCOPICA 107.5cm 7 M. AZUL/RO\n12/24",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen114.jpg",
+        "codigo": "FDC6101400",
+        "clave": "4198833114",
+        "descripcion": "BARRA STROBOSCOPICA\n122.5cm 8 M. AZUL/RO\n12/24",
+        "precio": "182520"
+    },
+    {
+        "imagen": "/imagenes/imagen115.jpg",
+        "codigo": "FDC6200100",
+        "clave": "4198833115",
+        "descripcion": "BARRA STROBOSCOPICA 24cm 2 M. BCO/AMBAR 12/24",
+        "precio": "52390"
+    },
+    {
+        "imagen": "/imagenes/imagen116.jpg",
+        "codigo": "FDC6200300",
+        "clave": "4198833117",
+        "descripcion": "BARRA STROBOSCOPICA\n46.5cm 4M BCO/ AMBAR 12/24",
+        "precio": "89570"
+    },
+    {
+        "imagen": "/imagenes/imagen117.jpg",
+        "codigo": "FDC6200400",
+        "clave": "4198833118",
+        "descripcion": "BARRA STROBOSCOPICA\n57.5cm 5M BCO/AMBAR\n12/24",
+        "precio": "106470"
+    },
+    {
+        "imagen": "/imagenes/imagen118.jpg",
+        "codigo": "FDC6200500",
+        "clave": "4198833119",
+        "descripcion": "BARRA STROBOSCOPICA\n68.5cm 6M BCO/ AMBAR 12/24",
+        "precio": "125060"
+    },
+    {
+        "imagen": "/imagenes/imagen119.jpg",
+        "codigo": "FDC6200600",
+        "clave": "4198833120",
+        "descripcion": "BARRA STROBOSCOPICA\n79.5cm 7M BCO/ AMBAR 12/24",
+        "precio": "140270"
+    },
+    {
+        "imagen": "/imagenes/imagen120.jpg",
+        "codigo": "FDC6200700",
+        "clave": "4198833121",
+        "descripcion": "BARRA STROBOSCOPICA 90.5cm 8M BCO/ AMBAR 12/24",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen121.jpg",
+        "codigo": "FDC6200800",
+        "clave": "4198833122",
+        "descripcion": "BARRA STROBOSCOPICA 32cm 2 M. BCO/AMBAR 12/24",
+        "precio": "54080"
+    },
+    {
+        "imagen": "/imagenes/imagen122.jpg",
+        "codigo": "FDC6200900",
+        "clave": "4198833123",
+        "descripcion": "BARRA STROBOSCOPICA\n47.5cm 3 M. BCO/AMBA\n12/24",
+        "precio": "77740"
+    },
+    {
+        "imagen": "/imagenes/imagen123.jpg",
+        "codigo": "FDC6201000",
+        "clave": "4198833124",
+        "descripcion": "BARRA STROBOSCOPICA\n62.5cm 4 M. BCO/AMBA\n12/24",
+        "precio": "96330"
+    },
+    {
+        "imagen": "/imagenes/imagen124.jpg",
+        "codigo": "FDC6201100",
+        "clave": "4198833125",
+        "descripcion": "BARRA STROBOSCOPICA\n77.5cm 5 M. BCO/AMBA\n12/24",
+        "precio": "123370"
+    },
+    {
+        "imagen": "/imagenes/imagen125.jpg",
+        "codigo": "FDC6201200",
+        "clave": "4198833126",
+        "descripcion": "BARRA STROBOSCOPICA\n92.5cm 6 M. BCO/ AMBA12-24",
+        "precio": "140270"
+    },
+    {
+        "imagen": "/imagenes/imagen126.jpg",
+        "codigo": "FDC6201300",
+        "clave": "4198833127",
+        "descripcion": "BARRA STROBOSCOPICA 107.5cm 7 M. BCO/AMB\n12/24",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen127.jpg",
+        "codigo": "FDC6201400",
+        "clave": "4198833128",
+        "descripcion": "BARRA STROBOSCOPICA\n122.5cm 8 M. BCO/AMB\n12/24",
+        "precio": "182520"
+    },
+    {
+        "imagen": "/imagenes/imagen128.jpg",
+        "codigo": "FDC8000100",
+        "clave": "4198833151",
+        "descripcion": "BARRA ESTROBOSCOPICA",
+        "precio": "98020"
+    },
+    {
+        "imagen": "/imagenes/imagen129.jpg",
+        "codigo": "FDC8000200",
+        "clave": "4198833152",
+        "descripcion": "BARRA ESTROBOSCOPICA",
+        "precio": "145340"
+    },
+    {
+        "imagen": "/imagenes/imagen130.jpg",
+        "codigo": "FDC8000300",
+        "clave": "4198833153",
+        "descripcion": "BARRA ESTROBOSCOPICA",
+        "precio": "187590"
+    },
+    {
+        "imagen": "/imagenes/imagen131.jpg",
+        "codigo": "FEC1001900",
+        "clave": "4198150315",
+        "descripcion": "EXPLORADORA CUADRADO 9 LED 27W GRUESO  12/24",
+        "precio": "34645"
+    },
+    {
+        "imagen": "/imagenes/imagen132.jpg",
+        "codigo": "FEC1002100",
+        "clave": "4198150316",
+        "descripcion": "EXPLORDORA REDONDO 9 LED  27W GRUESO 12/24",
+        "precio": "34645"
+    },
+    {
+        "imagen": "/imagenes/imagen133.jpg",
+        "codigo": "FEC1011200",
+        "clave": "4198200966",
+        "descripcion": "BARRA LED BLA/ AMBAR  24 CM 5 FUN 12/24",
+        "precio": "82810"
+    },
+    {
+        "imagen": "/imagenes/imagen134.jpg",
+        "codigo": "FEC1011300",
+        "clave": "4198200967",
+        "descripcion": "BARRA LED BLA/ AMBAR  31 CM 5 FUN 12/24",
+        "precio": "101400"
+    },
+    {
+        "imagen": "/imagenes/imagen135.jpg",
+        "codigo": "FEC1011400",
+        "clave": "4198200968",
+        "descripcion": "BARRA LED BLA/ AMBAR  38 CM 5 FUN 12/24",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen136.jpg",
+        "codigo": "FEC1011500",
+        "clave": "4198200969",
+        "descripcion": "BARRA LED BLA/ AMBAR  45 CM 5 FUN 12/24",
+        "precio": "140270"
+    },
+    {
+        "imagen": "/imagenes/imagen137.jpg",
+        "codigo": "FEC1011600",
+        "clave": "4198200970",
+        "descripcion": "BARRA LED BLA/ AMBAR  52 CM 5 FUN 12/24",
+        "precio": "163930"
+    },
+    {
+        "imagen": "/imagenes/imagen138.jpg",
+        "codigo": "FEC1011700",
+        "clave": "4198200977",
+        "descripcion": "BARRA LED BLA/ AMBAR  59 CM 5 FUN 12/24",
+        "precio": "182520"
+    },
+    {
+        "imagen": "/imagenes/imagen139.jpg",
+        "codigo": "FEC1011800",
+        "clave": "4198150351",
+        "descripcion": "BARRA LED BLA/ AMBAR  66 CM  5 FUN 12/24",
+        "precio": "202800"
+    },
+    {
+        "imagen": "/imagenes/imagen140.jpg",
+        "codigo": "FEC1011900",
+        "clave": "4198150352",
+        "descripcion": "BARRA LED BLA/ AMBAR  73 CM 5 FUN 12/24",
+        "precio": "221390"
+    },
+    {
+        "imagen": "/imagenes/imagen141.jpg",
+        "codigo": "FEC1012000",
+        "clave": "4198150353",
+        "descripcion": "BARRA LED BLA/ AMBAR  78 CM 5 FUN 12/24",
+        "precio": "239980"
+    },
+    {
+        "imagen": "/imagenes/imagen142.jpg",
+        "codigo": "FEC1012900",
+        "clave": "4198150362",
+        "descripcion": "BARRA LUZ LED 78LED 91 CM LUPA  12/24",
+        "precio": "211250"
+    },
+    {
+        "imagen": "/imagenes/imagen143.jpg",
+        "codigo": "FEC1013100",
+        "clave": "4198150364",
+        "descripcion": "BARRA LED 26X4,5 CM 12/24",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen144.jpg",
+        "codigo": "FEC1013200",
+        "clave": "4198150365",
+        "descripcion": "BARRA LED 38X4,5 CM 12/24",
+        "precio": "92950"
+    },
+    {
+        "imagen": "/imagenes/imagen145.jpg",
+        "codigo": "FEC1013300",
+        "clave": "4198150366",
+        "descripcion": "BARRA LED 49X4,5 CM 12/24",
+        "precio": "109850"
+    },
+    {
+        "imagen": "/imagenes/imagen146.jpg",
+        "codigo": "FEC1013400",
+        "clave": "4198150367",
+        "descripcion": "BARRA LED 61X4,5 CM12/24",
+        "precio": "135200"
+    },
+    {
+        "imagen": "/imagenes/imagen147.jpg",
+        "codigo": "FEC1013500",
+        "clave": "4198150368",
+        "descripcion": "BARRA LED 73X4,5 CM 12/24",
+        "precio": "165620"
+    },
+    {
+        "imagen": "/imagenes/imagen148.jpg",
+        "codigo": "FEC1013700",
+        "clave": "4198150370",
+        "descripcion": "BARRA LED 96X4,5 CM 12/24",
+        "precio": "202800"
+    },
+    {
+        "imagen": "/imagenes/imagen149.jpg",
+        "codigo": "FEC1013800",
+        "clave": "4198150371",
+        "descripcion": "BARRA LED 108X4,5 CM 12/24",
+        "precio": "211250"
+    },
+    {
+        "imagen": "/imagenes/imagen150.jpg",
+        "codigo": "FEC1013900",
+        "clave": "4198150372",
+        "descripcion": "BARRA LED 120X4,5CM 12/24",
+        "precio": "224770"
+    },
+    {
+        "imagen": "/imagenes/imagen151.jpg",
+        "codigo": "FEC3032500",
+        "clave": "6299994737",
+        "descripcion": "El REDONDO. STOP LED 4’ 12V",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen152.jpg",
+        "codigo": "FEC3032600",
+        "clave": "6299994738",
+        "descripcion": "El REDONDO. STOP LED 4’ 12V",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen153.jpg",
+        "codigo": "FEC3032700",
+        "clave": "6299994739",
+        "descripcion": "El REDONDO. STOP LED 4’ 12V",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen154.jpg",
+        "codigo": "FEC3032800",
+        "clave": "6299994740",
+        "descripcion": "El OVALADO LAMPARA LATERAL LED 12V",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen155.jpg",
+        "codigo": "FEC3032900",
+        "clave": "6299994741",
+        "descripcion": "El OVALADO LAMPARA LATERAL LED 12V",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen156.jpg",
+        "codigo": "FEC3033000",
+        "clave": "6299994742",
+        "descripcion": "El OVALADO LAMPARA LATERAL LED 12V",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen157.jpg",
+        "codigo": "FEC3050100",
+        "clave": "6299994901",
+        "descripcion": "PLAFON 4¨ ROJO FIJO Y STROBO 24LED CON ANGELES",
+        "precio": "40560"
+    },
+    {
+        "imagen": "/imagenes/imagen158.jpg",
+        "codigo": "FEC3050200",
+        "clave": "6299994902",
+        "descripcion": "PLAFON 4¨ AMBAR FIJO Y STROBO 24LED CON ANGELES",
+        "precio": "40560"
+    },
+    {
+        "imagen": "/imagenes/imagen159.jpg",
+        "codigo": "FEC3050300",
+        "clave": "6299994903",
+        "descripcion": "PLAFON 4¨ BLANCO FIJO Y STROBO 24LED CON ANGELES",
+        "precio": "40560"
+    },
+    {
+        "imagen": "/imagenes/imagen160.jpg",
+        "codigo": "FEC3050400",
+        "clave": "6299994904",
+        "descripcion": "PLAFON 4¨ ROJO FIJO Y STROBO 12LED DELGAD",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen161.jpg",
+        "codigo": "FEC3050500",
+        "clave": "6299994905",
+        "descripcion": "PLAFON 4¨ AMBAR FIJO Y STROBO AMBAR DELGADO",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen162.jpg",
+        "codigo": "FEC3050700",
+        "clave": "6299994907",
+        "descripcion": "PLAFON 4¨ ROJO FIJO Y STROBO 12LED DELGADO",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen163.jpg",
+        "codigo": "FEC3050800",
+        "clave": "6299994908",
+        "descripcion": "PLAFON 4¨ AMBAR FIJO Y STROBO 12LED DELGADO",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen164.jpg",
+        "codigo": "FEC3051000",
+        "clave": "6299994910",
+        "descripcion": "PLAFON 4¨ ROJO FIJO Y STROBO 12LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen165.jpg",
+        "codigo": "FEC3051100",
+        "clave": "6299994911",
+        "descripcion": "PLAFON 4¨ AMBAR FIJO Y STROBO 12LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen166.jpg",
+        "codigo": "FEC3051200",
+        "clave": "6299994912",
+        "descripcion": "PLAFON 4¨ BALNCO FIJO Y STROBO 12LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen167.jpg",
+        "codigo": "FEC3051300",
+        "clave": "6299994913",
+        "descripcion": "PLAFON 4¨ ROJO FIJO Y STROBO 12LED",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen168.jpg",
+        "codigo": "FEC3051400",
+        "clave": "6299994914",
+        "descripcion": "PLAFON 4¨ AMBAR FIJO Y STROBO 12LED",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen169.jpg",
+        "codigo": "FEC3051500",
+        "clave": "6299994915",
+        "descripcion": "PLAFON 4¨ BLANCO FIJO Y STROBO 12LED",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen170.jpg",
+        "codigo": "FEC3051600",
+        "clave": "6299994916",
+        "descripcion": "PLAFON 4¨ ROJO FIJO Y STROBO 19LED",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen171.jpg",
+        "codigo": "FEC3051700",
+        "clave": "6299994917",
+        "descripcion": "PLAFON 4¨ AMBAR FIJO Y STROBO 19LED",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen172.jpg",
+        "codigo": "FEC3051800",
+        "clave": "6299994918",
+        "descripcion": "PLAFON 4¨ BALNCO FIJO Y STROBO 19LED",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen173.jpg",
+        "codigo": "FEC3080000",
+        "clave": "6299994750",
+        "descripcion": "PLAFON 6¨ROJO FIJO Y STROBO 14LED DELGADO",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen174.jpg",
+        "codigo": "FEC3080100",
+        "clave": "6299994751",
+        "descripcion": "PLAFON 6¨ AMBAR FIJO Y STROBO 14LED DELGADO",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen175.jpg",
+        "codigo": "FEC3080200",
+        "clave": "6299994752",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 14LED DELGADO",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen176.jpg",
+        "codigo": "FEC3080300",
+        "clave": "6299994753",
+        "descripcion": "PLAFON 6¨ ROJO FIJO Y STROBO 14LED DELGADO",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen177.jpg",
+        "codigo": "FEC3080400",
+        "clave": "6299994754",
+        "descripcion": "PLAFON 6¨ AMBAR FIJO Y STROBO 14LED DELGADO",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen178.jpg",
+        "codigo": "FEC3080500",
+        "clave": "6299994755",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 14LED DELGADO",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen179.jpg",
+        "codigo": "FEC3080600",
+        "clave": "6299994756",
+        "descripcion": "PLAFON 6¨ ROJO FIJO Y STROO 14LED",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen180.jpg",
+        "codigo": "FEC3080700",
+        "clave": "6299994757",
+        "descripcion": "PLAFON 6¨ AMBAR FIJO Y STROBO 14LED",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen181.jpg",
+        "codigo": "FEC3080800",
+        "clave": "6299994758",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 14LED",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen182.jpg",
+        "codigo": "FEC3080900",
+        "clave": "6299994759",
+        "descripcion": "PLAFON 6¨ ROJO FIJO Y STROBO 25LED DELGADO",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen183.jpg",
+        "codigo": "FEC3081000",
+        "clave": "6299994760",
+        "descripcion": "PLAFON 6¨ AMBAR FIJO Y STROBO 25LED DELGADO",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen184.jpg",
+        "codigo": "FEC3081100",
+        "clave": "6299994761",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 25LED DELGADO",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen185.jpg",
+        "codigo": "FEC3081200",
+        "clave": "6299994762",
+        "descripcion": "PLAFON 6¨ ROJO FIJI Y STROBO 25LED DELGADO",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen186.jpg",
+        "codigo": "FEC3081400",
+        "clave": "6299994764",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 25LED DELGADO",
+        "precio": "30420"
+    },
+    {
+        "imagen": "/imagenes/imagen187.jpg",
+        "codigo": "FEC3081500",
+        "clave": "6299994765",
+        "descripcion": "PLAFON 6¨ ROJO FIJO Y STROBO 25LED",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen188.jpg",
+        "codigo": "FEC3081600",
+        "clave": "6299994766",
+        "descripcion": "PLAFON 6¨ AMBAR FIJO Y STROBO 25LED",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen189.jpg",
+        "codigo": "FEC3081700",
+        "clave": "6299994767",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 25LED",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen190.jpg",
+        "codigo": "FEC3081800",
+        "clave": "6299994768",
+        "descripcion": "PLAFON 6¨ ROJO FIJO Y STROBO 25LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen191.jpg",
+        "codigo": "FEC3081900",
+        "clave": "6299994769",
+        "descripcion": "PLAFON 6¨ AMBAR FIJO Y STROBO 25LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen192.jpg",
+        "codigo": "FEC3082000",
+        "clave": "6299994770",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 25LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen193.jpg",
+        "codigo": "FEC3082100",
+        "clave": "6299994771",
+        "descripcion": "PLAFON 6¨ ROJO FIJO Y STROBO 34LED DELGADO",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen194.jpg",
+        "codigo": "FEC3082200",
+        "clave": "6299994772",
+        "descripcion": "PLAFON 6¨ AMBAR FIJO Y STROBO 34LED DELGADO",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen195.jpg",
+        "codigo": "FEC3082300",
+        "clave": "6299994773",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 34LED DELGADO",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen196.jpg",
+        "codigo": "FEC3082600",
+        "clave": "6299994776",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 34LED DELGADO",
+        "precio": "35490"
+    },
+    {
+        "imagen": "/imagenes/imagen197.jpg",
+        "codigo": "FEC3082700",
+        "clave": "6299994777",
+        "descripcion": "PLAFON 6¨ ROJO FIJO Y STROBO 14LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen198.jpg",
+        "codigo": "FEC3082800",
+        "clave": "6299994778",
+        "descripcion": "PLAFON 6¨ AMBAR FIJO Y STROBO 14LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen199.jpg",
+        "codigo": "FEC3082900",
+        "clave": "6299994779",
+        "descripcion": "PLAFON 6¨ BLANCO FIJO Y STROBO 14LED",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen200.jpg",
+        "codigo": "FEC5001100",
+        "clave": "4198650417",
+        "descripcion": "TIRA LED/DUAL 30CM ROJO/AMBAR 12V",
+        "precio": "50700"
+    },
+    {
+        "imagen": "/imagenes/imagen201.jpg",
+        "codigo": "FEC5001200",
+        "clave": "4198650416",
+        "descripcion": "TIRA LED/DUAL 30CM AZUL/AMBAR 12V",
+        "precio": "50700"
+    },
+    {
+        "imagen": "/imagenes/imagen202.jpg",
+        "codigo": "FEC5001600",
+        "clave": "4198650415",
+        "descripcion": "TIRA LED/DUAL 45CM ROJO/AMBAR 12V",
+        "precio": "54080"
+    },
+    {
+        "imagen": "/imagenes/imagen203.jpg",
+        "codigo": "FEC5001700",
+        "clave": "4198650408",
+        "descripcion": "TIRA LED/DUAL 45CM AZUL/AMBAR 12V",
+        "precio": "54080"
+    },
+    {
+        "imagen": "/imagenes/imagen204.jpg",
+        "codigo": "FEC5200200",
+        "clave": "4198170467",
+        "descripcion": "TIRA LED/GEL 5MTS BLA NEON RECORT 12V",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen205.jpg",
+        "codigo": "FEC5200300",
+        "clave": "4198170468",
+        "descripcion": "TIRA LED/GEL 5MTR AZUL/NEON RECORT 12V",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen206.jpg",
+        "codigo": "FEC5200400",
+        "clave": "4198170471",
+        "descripcion": "TIRA LED/GEL 5MTS ROJO/NEON RECORT 12V",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen207.jpg",
+        "codigo": "FEC5200500",
+        "clave": "4198170469",
+        "descripcion": "TIRA LED/GEL 5MTS AMBAR/NEON RECORT 12V",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen208.jpg",
+        "codigo": "FEC5800100",
+        "clave": "4298170401",
+        "descripcion": "CINTA LED CAPO RECORRIDO-BLANCA 120 CM 12V",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen209.jpg",
+        "codigo": "FEC5800200",
+        "clave": "4298170402",
+        "descripcion": "CINTA LED CAPO RECORRIDO-BLANCA 150 CM 12V",
+        "precio": "38870"
+    },
+    {
+        "imagen": "/imagenes/imagen210.jpg",
+        "codigo": "FEC5800300",
+        "clave": "4298170403",
+        "descripcion": "CINTA LED  CAPO RECORRIDO-BLANCA 180 CM 12V",
+        "precio": "40560"
+    },
+    {
+        "imagen": "/imagenes/imagen211.jpg",
+        "codigo": "FEC5800400",
+        "clave": "4298170404",
+        "descripcion": "CINTA LED  CAPO RECORRIDO-AZUL HIELO 120 CM 12V",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen212.jpg",
+        "codigo": "FEC5800500",
+        "clave": "4298170405",
+        "descripcion": "CINTA LED  CAPO RECORRIDO-AZUL HIELO 150CM 12V",
+        "precio": "38870"
+    },
+    {
+        "imagen": "/imagenes/imagen213.jpg",
+        "codigo": "FEC5800600",
+        "clave": "4298170406",
+        "descripcion": "CINTA LED CAPO RECORRIDO-AZUL HIELO 180 CM 12V",
+        "precio": "40560"
+    },
+    {
+        "imagen": "/imagenes/imagen214.jpg",
+        "codigo": "FEC5800700",
+        "clave": "4298170407",
+        "descripcion": "CINTA LED CAPO FIJO-\nBLANCA 120 CM 12V",
+        "precio": "21970"
+    },
+    {
+        "imagen": "/imagenes/imagen215.jpg",
+        "codigo": "FEC5800800",
+        "clave": "4298170408",
+        "descripcion": "CINTA LED CAPO FIJO-\nBLANCA 150 CM 12V",
+        "precio": "23660"
+    },
+    {
+        "imagen": "/imagenes/imagen216.jpg",
+        "codigo": "FEC5800900",
+        "clave": "4298170409",
+        "descripcion": "CINTA LED CAPO FIJO-\nBLANCA 180 CM 12V",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen217.jpg",
+        "codigo": "FEC5801000",
+        "clave": "4298170410",
+        "descripcion": "CINTA LED CAPO FIJO-\nAZUL HIELO 120 CM 12V",
+        "precio": "21970"
+    },
+    {
+        "imagen": "/imagenes/imagen218.jpg",
+        "codigo": "FEC5801100",
+        "clave": "4298170411",
+        "descripcion": "CINTA LED CAPO FIJO-\nAZUL HIELO 150 CM 12V",
+        "precio": "23660"
+    },
+    {
+        "imagen": "/imagenes/imagen219.jpg",
+        "codigo": "FEC5801200",
+        "clave": "4298170412",
+        "descripcion": "CINTA LED CAPO FIJO-\nAZUL HIELO 180 CM 12V",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen220.jpg",
+        "codigo": "FEC5801300",
+        "clave": "4298170413",
+        "descripcion": "CINTA LED CAPO MULTICOLOR 120 CM 12V",
+        "precio": "64220"
+    },
+    {
+        "imagen": "/imagenes/imagen221.jpg",
+        "codigo": "FEC5801400",
+        "clave": "4298170414",
+        "descripcion": "CINTA LED  CAPO MULTICOLOR 150 CM 12V",
+        "precio": "67600"
+    },
+    {
+        "imagen": "/imagenes/imagen222.jpg",
+        "codigo": "FEC5801500",
+        "clave": "4298170415",
+        "descripcion": "CINTA LED  CAPO MULTICOLOR 180 CM 12V",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen223.jpg",
+        "codigo": "FEC6001600",
+        "clave": "4191340316",
+        "descripcion": "PAR EXPLORADORA CUADRADOS 9LED 27w\n11x11cm 12/24",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen224.jpg",
+        "codigo": "FEC6001700",
+        "clave": "4191340317",
+        "descripcion": "PAR EXPLORADORAS REDONDOS 9LED 27w\n11cm 12/24",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen225.jpg",
+        "codigo": "FEC6009600",
+        "clave": "4191340396",
+        "descripcion": "BARRA LUZ LED 31” 60 LED 12/24",
+        "precio": "177450"
+    },
+    {
+        "imagen": "/imagenes/imagen226.jpg",
+        "codigo": "FEC6009700",
+        "clave": "4191340397",
+        "descripcion": "BARRA LUZ LED 41” 80 LED 12/24",
+        "precio": "223080"
+    },
+    {
+        "imagen": "/imagenes/imagen227.jpg",
+        "codigo": "FEC6009800",
+        "clave": "4198340398",
+        "descripcion": "BARRA LUZ LED 50” 100 LED 12/24",
+        "precio": "338000"
+    },
+    {
+        "imagen": "/imagenes/imagen228.jpg",
+        "codigo": "FEC6011000",
+        "clave": "4191340350",
+        "descripcion": "PAR EXPLORADORAS 42 LED C/ARILLO BCO\n12/24",
+        "precio": "79430"
+    },
+    {
+        "imagen": "/imagenes/imagen229.jpg",
+        "codigo": "FEC6011100",
+        "clave": "4191340351",
+        "descripcion": "PAR EXPLORADORAS 42 LED C/ARILLO AZUL\n12/24",
+        "precio": "79430"
+    },
+    {
+        "imagen": "/imagenes/imagen230.jpg",
+        "codigo": "FEC6011200",
+        "clave": "4191340352",
+        "descripcion": "PAR EXPLORADORAS 42 LED C/ARILLO ROJO\n12/24",
+        "precio": "79430"
+    },
+    {
+        "imagen": "/imagenes/imagen231.jpg",
+        "codigo": "FEC6011400",
+        "clave": "4191340354",
+        "descripcion": "PAR EXPLORADORA C/ ARILLO AZUL 12/24",
+        "precio": "79430"
+    },
+    {
+        "imagen": "/imagenes/imagen232.jpg",
+        "codigo": "FEC6011500",
+        "clave": "4191340355",
+        "descripcion": "PAR EXPLORADORA C/ ARILLO ROJO 12/24",
+        "precio": "79430"
+    },
+    {
+        "imagen": "/imagenes/imagen233.jpg",
+        "codigo": "FEC6012000",
+        "clave": "4198340364",
+        "descripcion": "EXPLORADORA 20 LED\n60w 13 x 8.5 CM 12/24",
+        "precio": "52390"
+    },
+    {
+        "imagen": "/imagenes/imagen234.jpg",
+        "codigo": "FEC7618300",
+        "clave": "6256122605",
+        "descripcion": "LUZ LED CRUCERO C/ ARILLO (10 PZAS) ROJO 12V",
+        "precio": "45630"
+    },
+    {
+        "imagen": "/imagenes/imagen235.jpg",
+        "codigo": "FEC7620300",
+        "clave": "6256122613",
+        "descripcion": "LUZ LED CRUCERO C/ ARILLO (10 PZAS) AZUL 12V",
+        "precio": "45630"
+    },
+    {
+        "imagen": "/imagenes/imagen236.jpg",
+        "codigo": "FEC7620400",
+        "clave": "6256122614",
+        "descripcion": "LUZ LED CRUCERO C/ARILLO (10 PZAS) VERDE 12V",
+        "precio": "45630"
+    },
+    {
+        "imagen": "/imagenes/imagen237.jpg",
+        "codigo": "FEC7632200",
+        "clave": "4198157365",
+        "descripcion": "EXPLORADORA LUZ LED P/MOTO",
+        "precio": "35490"
+    },
+    {
+        "imagen": "/imagenes/imagen238.jpg",
+        "codigo": "FEC7632300",
+        "clave": "4198157366",
+        "descripcion": "EXPLORADORA LUZ LED P/MOTO",
+        "precio": "35490"
+    },
+    {
+        "imagen": "/imagenes/imagen239.jpg",
+        "codigo": "FEC7632400",
+        "clave": "4198157367",
+        "descripcion": "EXPLORADORA LUZ LED P/MOTO",
+        "precio": "35490"
+    },
+    {
+        "imagen": "/imagenes/imagen240.jpg",
+        "codigo": "FEC7636600",
+        "clave": "4198157516",
+        "descripcion": "PROYECTOR LUZ LED P/MOTO GRIS",
+        "precio": "20280"
+    },
+    {
+        "imagen": "/imagenes/imagen241.jpg",
+        "codigo": "FEC7636700",
+        "clave": "4198157517",
+        "descripcion": "PROYECTOR LUZ LED P/MOTO ROJO",
+        "precio": "20280"
+    },
+    {
+        "imagen": "/imagenes/imagen242.jpg",
+        "codigo": "FEC7636900",
+        "clave": "4198157519",
+        "descripcion": "PROYECTOR LUZ LED P/MOTO ORO",
+        "precio": "20280"
+    },
+    {
+        "imagen": "/imagenes/imagen243.jpg",
+        "codigo": "FEC7640600",
+        "clave": "4198157556",
+        "descripcion": "EXPLORADORA FIJO Y STROBO CON ARILLO AMBAR",
+        "precio": "50700"
+    },
+    {
+        "imagen": "/imagenes/imagen244.jpg",
+        "codigo": "FEC7640700",
+        "clave": "4198157557",
+        "descripcion": "EXPLORADORA FIJO Y STROBO CON ARILLO AZUL",
+        "precio": "50700"
+    },
+    {
+        "imagen": "/imagenes/imagen245.jpg",
+        "codigo": "FEC7640800",
+        "clave": "4198157558",
+        "descripcion": "EXPLORADORA FIJO Y STROBO CON ARILLO ROJO",
+        "precio": "50700"
+    },
+    {
+        "imagen": "/imagenes/imagen246.jpg",
+        "codigo": "FEC7640900",
+        "clave": "4198157559",
+        "descripcion": "EXPLORADORA FIJO 40W BLANCO",
+        "precio": "38870"
+    },
+    {
+        "imagen": "/imagenes/imagen247.jpg",
+        "codigo": "FEC7641200",
+        "clave": "4198157562",
+        "descripcion": "EXPLORADORA FIJO Y STROBO CON ANGELES AMBAR",
+        "precio": "39715"
+    },
+    {
+        "imagen": "/imagenes/imagen248.jpg",
+        "codigo": "FEC7641300",
+        "clave": "4198157563",
+        "descripcion": "EXPLORADORA FIJO Y STROBO CON ANGELES AZUL",
+        "precio": "39715"
+    },
+    {
+        "imagen": "/imagenes/imagen249.jpg",
+        "codigo": "FEC7641400",
+        "clave": "4198157564",
+        "descripcion": "EXPLORADORA FIJO Y STROBO CON ANGELES ROJO",
+        "precio": "39715"
+    },
+    {
+        "imagen": "/imagenes/imagen250.jpg",
+        "codigo": "FEC7641500",
+        "clave": "4198157565",
+        "descripcion": "EXPLORADORA FIJO Y STROBO CON ANGELES 5COLOR",
+        "precio": "39715"
+    },
+    {
+        "imagen": "/imagenes/imagen251.jpg",
+        "codigo": "FEC7700400",
+        "clave": "6198323123",
+        "descripcion": "PLAFON LATERAL ROJO STROBO CON ANGELES",
+        "precio": "23660"
+    },
+    {
+        "imagen": "/imagenes/imagen252.jpg",
+        "codigo": "FEC7700500",
+        "clave": "6198323124",
+        "descripcion": "PLAFON LATERAL AMBAR STROBO CON ANGELES",
+        "precio": "23660"
+    },
+    {
+        "imagen": "/imagenes/imagen253.jpg",
+        "codigo": "FEC7700600",
+        "clave": "6198323125",
+        "descripcion": "PLAFON LATERAL ROJO STROBO CON ANGELES",
+        "precio": "23660"
+    },
+    {
+        "imagen": "/imagenes/imagen254.jpg",
+        "codigo": "FEC7700700",
+        "clave": "6198323126",
+        "descripcion": "PLAFON LATERAL AMBAR STROBO CON ANGELES",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen255.jpg",
+        "codigo": "FEC7700800",
+        "clave": "6198323127",
+        "descripcion": "PLAFON LATERAL ROJO STROBO CON ANGELES",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen256.jpg",
+        "codigo": "FEC7701000",
+        "clave": "6198323129",
+        "descripcion": "PLAFON LATERAL ROJO STROBO CON ANGELES",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen257.jpg",
+        "codigo": "FEC8000200",
+        "clave": "4198340381",
+        "descripcion": "PAR EXPLORADORAS MINI CUADRADO 9 LEDS 3” BLANCO 12/24",
+        "precio": "35490"
+    },
+    {
+        "imagen": "/imagenes/imagen258.jpg",
+        "codigo": "FEC8000600",
+        "clave": "4198340385",
+        "descripcion": "PAR EXPLORADORAS MINI CUADRADAS 9 LEDS 3” AMBAR 12/24",
+        "precio": "35490"
+    },
+    {
+        "imagen": "/imagenes/imagen259.jpg",
+        "codigo": "FEC8000800",
+        "clave": "4198340387",
+        "descripcion": "PAR EXPLORADORAS MINI CUADRADA 16 LEDS 3” AMBRA 12/24",
+        "precio": "35490"
+    },
+    {
+        "imagen": "/imagenes/imagen260.jpg",
+        "codigo": "FEC8001000",
+        "clave": "4198340389",
+        "descripcion": "PAR EXPLORADORAS CUADRADO 9 LED 3”BCO/AMBAR 12/24",
+        "precio": "35490"
+    },
+    {
+        "imagen": "/imagenes/imagen261.jpg",
+        "codigo": "FEC9000100",
+        "clave": "4198209640",
+        "descripcion": "MODULO LED 70X19MM BLANCO 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen262.jpg",
+        "codigo": "FEC9000200",
+        "clave": "4198209641",
+        "descripcion": "MODULO  LED 70 X19MM 2W ROJO 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen263.jpg",
+        "codigo": "FEC9000300",
+        "clave": "4198209642",
+        "descripcion": "MODULO  LED 70 X19MM 2W AZUL 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen264.jpg",
+        "codigo": "FEC9000400",
+        "clave": "4198209643",
+        "descripcion": "MODULO  LED 70 X19MM 2W VERDE 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen265.jpg",
+        "codigo": "FEC9000700",
+        "clave": "4198209646",
+        "descripcion": "MODULO  LED 40 X 30MM 1.5W BLANCO\n12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen266.jpg",
+        "codigo": "FEC9000800",
+        "clave": "4198209647",
+        "descripcion": "MODULO  LED 40 X 30MM 1.5W ROJO 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen267.jpg",
+        "codigo": "FEC9000900",
+        "clave": "4198209648",
+        "descripcion": "MODULO LUZ LED 40 X 30 1.5W AZUL 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen268.jpg",
+        "codigo": "FEC9001000",
+        "clave": "4198209649",
+        "descripcion": "MODULO LUZ LED 40 X 30MM 1.5W VERDE 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen269.jpg",
+        "codigo": "FEC9001100",
+        "clave": "4198209650",
+        "descripcion": "MODULO LUZ LED 40 X 30 1.5W AMBAR 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen270.jpg",
+        "codigo": "FEC9001200",
+        "clave": "4198209651",
+        "descripcion": "MODULO LUZ LED 40 X 30 1.5W ROSA 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen271.jpg",
+        "codigo": "FEC9001300",
+        "clave": "4198209652",
+        "descripcion": "MODULO LUZ LED 48 X 32MM 1.5W BLANCO 12V",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen272.jpg",
+        "codigo": "FEC9001400",
+        "clave": "4198209653",
+        "descripcion": "MODULO LUZ LED 48 X 32MM 1.5W ROJO 12V",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen273.jpg",
+        "codigo": "FEC9001500",
+        "clave": "4198209654",
+        "descripcion": "MODULO LUZ LED 48 X 32MM 1.5W AZUL 12V",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen274.jpg",
+        "codigo": "FEC9001600",
+        "clave": "4198209655",
+        "descripcion": "MODULO LUZ LED 48 X 32MM 1.5W VERDE 12V",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen275.jpg",
+        "codigo": "FEC9001700",
+        "clave": "4198209656",
+        "descripcion": "MODULO LUZ LED 48 X 32MM 1.5W AMBAR 12V",
+        "precio": "25350"
+    },
+    {
+        "imagen": "/imagenes/imagen276.jpg",
+        "codigo": "FEC9003500",
+        "clave": "4198209674",
+        "descripcion": "MODULO LUZ LED 50 X 16MM 2.4W BLANCO 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen277.jpg",
+        "codigo": "FEC9003600",
+        "clave": "4198209675",
+        "descripcion": "MODULO LUZ LED 50 X 16MM 2.4W ROJO 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen278.jpg",
+        "codigo": "FEC9003700",
+        "clave": "4198209676",
+        "descripcion": "MODULO LUZ LED 50 X 16MM 2,4W AZUL 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen279.jpg",
+        "codigo": "FEC9003800",
+        "clave": "4198209677",
+        "descripcion": "MODULO LUZ LED 50 X 16MM 2.4W VERDE 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen280.jpg",
+        "codigo": "FEC9003900",
+        "clave": "4198209678",
+        "descripcion": "MODULO LUZ LED 50 X 16MM 2.4W AMBAR 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen281.jpg",
+        "codigo": "FEC9006800",
+        "clave": "4198209708",
+        "descripcion": "MODULO LUZ LED 74 X20MM 3W BLANCO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen282.jpg",
+        "codigo": "FEC9006900",
+        "clave": "4198209709",
+        "descripcion": "MODULO LUZ LED 74 X20MM 3W ROJO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen283.jpg",
+        "codigo": "FEC9007000",
+        "clave": "4198209710",
+        "descripcion": "MODULO LUZ LED 74 X20MM 3W AZUL",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen284.jpg",
+        "codigo": "FEC9007100",
+        "clave": "4198209711",
+        "descripcion": "MODULO LUZ LED 74 X20MM 3W AMBAR",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen285.jpg",
+        "codigo": "FEC9007200",
+        "clave": "4198209712",
+        "descripcion": "MODULO LUZ LED 74 X20MM 3W VERDE",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen286.jpg",
+        "codigo": "FEC9007300",
+        "clave": "4198209713",
+        "descripcion": "MODULO LUZ LED 74 X20MM 3W BLANCO 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen287.jpg",
+        "codigo": "FEC9007500",
+        "clave": "4198209715",
+        "descripcion": "MODULO LUZ LED 74 X20MM 3W AZUL 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen288.jpg",
+        "codigo": "FEC9007600",
+        "clave": "4198209716",
+        "descripcion": "MODULO LUZ LED 74 X20MM 3W AMBAR 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen289.jpg",
+        "codigo": "FEC9007700",
+        "clave": "4198209717",
+        "descripcion": "MODULO LUZ LED 70 X15MM 0.6W BLANCO 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen290.jpg",
+        "codigo": "FEC9008000",
+        "clave": "4198209720",
+        "descripcion": "MODULO LUZ LED 70 X15MM 0.6W AMBAR 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen291.jpg",
+        "codigo": "FEC9008100",
+        "clave": "4198209721",
+        "descripcion": "MODULO LUZ LED 82 X18MM 1.5W BLANCO 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen292.jpg",
+        "codigo": "FEC9008300",
+        "clave": "4198209723",
+        "descripcion": "MODULO LUZ LED 82 X18MM 1.5W AZUL 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen293.jpg",
+        "codigo": "FEC9008400",
+        "clave": "4198209724",
+        "descripcion": "MODULO LUZ LED 82 X18MM 1.5W AMBAR 12V",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen294.jpg",
+        "codigo": "FEC9008500",
+        "clave": "4198209725",
+        "descripcion": "MODULO LUZ LED 75 X20MM 3W BLANCO 12V",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen295.jpg",
+        "codigo": "FEC9008800",
+        "clave": "4198209728",
+        "descripcion": "MODULO LUZ LED 75 X20MM 3W AMBAR  12V",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen296.jpg",
+        "codigo": "FEC9009100",
+        "clave": "4198209731",
+        "descripcion": "MODULO LUZ LED 136 X20MM 3W AZUL",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen297.jpg",
+        "codigo": "FEC9009200",
+        "clave": "4198209732",
+        "descripcion": "MODULO LUZ LED 136 X20MM 3W AMBAR",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen298.jpg",
+        "codigo": "FEC9009300",
+        "clave": "4198209733",
+        "descripcion": "MODULO LUZ LED 136 X20MM 3W VERDE",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen299.jpg",
+        "codigo": "FEC9009400",
+        "clave": "4198209734",
+        "descripcion": "MODULO LUZ LED BLANCO 12V",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen300.jpg",
+        "codigo": "FEC9009500",
+        "clave": "4198209735",
+        "descripcion": "MODULO LUZ LED ROJO 12V",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen301.jpg",
+        "codigo": "FEC9009600",
+        "clave": "4198209736",
+        "descripcion": "MODULO LUZ LED AZUL 12V",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen302.jpg",
+        "codigo": "FEC9009700",
+        "clave": "4198209737",
+        "descripcion": "MODULO LUZ LED AMBAR 12V",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen303.jpg",
+        "codigo": "FEC9010300",
+        "clave": "4198209743",
+        "descripcion": "MODULO LUZ LED 12LED BLANCO 12V",
+        "precio": "55770"
+    },
+    {
+        "imagen": "/imagenes/imagen304.jpg",
+        "codigo": "FEC9010400",
+        "clave": "4198209744",
+        "descripcion": "MODULO LUZ LED 12LED ROJO 12V",
+        "precio": "55770"
+    },
+    {
+        "imagen": "/imagenes/imagen305.jpg",
+        "codigo": "FFC0000700",
+        "clave": "4198484809",
+        "descripcion": "KIT FOCO LED  H4 MOTO",
+        "precio": "33800"
+    },
+    {
+        "imagen": "/imagenes/imagen306.jpg",
+        "codigo": "FFC0020600",
+        "clave": "4198484829",
+        "descripcion": "KIT LED H13 COB 5 CARAS",
+        "precio": "148720"
+    },
+    {
+        "imagen": "/imagenes/imagen307.jpg",
+        "codigo": "FFC0020700",
+        "clave": "4198484830",
+        "descripcion": "KIT LED 9004 COB 5 CARAS",
+        "precio": "148720"
+    },
+    {
+        "imagen": "/imagenes/imagen308.jpg",
+        "codigo": "FFC0020900",
+        "clave": "4198484832",
+        "descripcion": "KIT LED 9006 COB 5CARAS",
+        "precio": "133510"
+    },
+    {
+        "imagen": "/imagenes/imagen309.jpg",
+        "codigo": "FFC0021000",
+        "clave": "4198484833",
+        "descripcion": "KIT LED 9007 COB 5 CARAS",
+        "precio": "133510"
+    },
+    {
+        "imagen": "/imagenes/imagen310.jpg",
+        "codigo": "FFC0021400",
+        "clave": "4198484845",
+        "descripcion": "KIT HID LED H7 2 CARAS",
+        "precio": "113230"
+    },
+    {
+        "imagen": "/imagenes/imagen311.jpg",
+        "codigo": "FFC0021500",
+        "clave": "4198484847",
+        "descripcion": "KIT HID LED H11 2 CARAS",
+        "precio": "113230"
+    },
+    {
+        "imagen": "/imagenes/imagen312.jpg",
+        "codigo": "FFC0021800",
+        "clave": "4198484853",
+        "descripcion": "KIT LED 9007 CREE 2 CARAS",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen313.jpg",
+        "codigo": "FFC0021900",
+        "clave": "4198484850",
+        "descripcion": "KIT LED 9004 CREE 2 CARAS",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen314.jpg",
+        "codigo": "FFC0022000",
+        "clave": "4198484843",
+        "descripcion": "KIT HID LED H4 2 CARAS ALTA/BAJA",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen315.jpg",
+        "codigo": "FFC0022100",
+        "clave": "4198484849",
+        "descripcion": "KIT H13 LED CREE 2 CARAS",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen316.jpg",
+        "codigo": "FFC0022200",
+        "clave": "4198484844",
+        "descripcion": "KIT LED 880 CREE 2 CARAS",
+        "precio": "113230"
+    },
+    {
+        "imagen": "/imagenes/imagen317.jpg",
+        "codigo": "FFC5010200",
+        "clave": "4198484935",
+        "descripcion": "KIT FOCO LED H3 2 CARAS",
+        "precio": "65910"
+    },
+    {
+        "imagen": "/imagenes/imagen318.jpg",
+        "codigo": "FFC5010900",
+        "clave": "4198484942",
+        "descripcion": "KIT LED 9004 CREE 2 CARAS",
+        "precio": "81120"
+    },
+    {
+        "imagen": "/imagenes/imagen319.jpg",
+        "codigo": "FFC5011000",
+        "clave": "4198484943",
+        "descripcion": "KIT LED 9007 CREE 2 CARAS",
+        "precio": "81120"
+    },
+    {
+        "imagen": "/imagenes/imagen320.jpg",
+        "codigo": "FFC5020900",
+        "clave": "4198484953",
+        "descripcion": "KIT LED 9004 3 CARAS",
+        "precio": "94640"
+    },
+    {
+        "imagen": "/imagenes/imagen321.jpg",
+        "codigo": "FFC5021000",
+        "clave": "4198484954",
+        "descripcion": "KIT LED 9007 3 CARAS",
+        "precio": "94640"
+    },
+    {
+        "imagen": "/imagenes/imagen322.jpg",
+        "codigo": "FFC5030900",
+        "clave": "4198484964",
+        "descripcion": "KIT LED 9004 CREE 2 CARAS",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen323.jpg",
+        "codigo": "FFC5031000",
+        "clave": "4198484965",
+        "descripcion": "KIT LED 9007 CREE 2 CARAS",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen324.jpg",
+        "codigo": "FFC5031100",
+        "clave": "4198484966",
+        "descripcion": "KIT LED H13 CREE 2 CARAS",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen325.jpg",
+        "codigo": "FFC5040200",
+        "clave": "4198484968",
+        "descripcion": "KIT FOCO LED H3 2 CARAS 6000K",
+        "precio": "89570"
+    },
+    {
+        "imagen": "/imagenes/imagen326.jpg",
+        "codigo": "FFC5040900",
+        "clave": "4198484975",
+        "descripcion": "KIT LED 9004 COB 4 CARAS",
+        "precio": "104780"
+    },
+    {
+        "imagen": "/imagenes/imagen327.jpg",
+        "codigo": "FFC5041000",
+        "clave": "4198484976",
+        "descripcion": "KIT LED 9007 COB 4 CARAS",
+        "precio": "104780"
+    },
+    {
+        "imagen": "/imagenes/imagen328.jpg",
+        "codigo": "FFC5041100",
+        "clave": "4198484977",
+        "descripcion": "KIT LED H13 COB 4 CARAS",
+        "precio": "104780"
+    },
+    {
+        "imagen": "/imagenes/imagen329.jpg",
+        "codigo": "FFC5050100",
+        "clave": "4198484978",
+        "descripcion": "KIT FOCO LED 4 CARAS H1",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen330.jpg",
+        "codigo": "FFC5050200",
+        "clave": "4198484979",
+        "descripcion": "KIT FOCO LED 4 CARAS H3",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen331.jpg",
+        "codigo": "FFC5050300",
+        "clave": "4198484980",
+        "descripcion": "KIT FOCO LED 8 CARAS H7",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen332.jpg",
+        "codigo": "FFC5050400",
+        "clave": "4198484981",
+        "descripcion": "KIT FOFO LED 8 CARAS H11",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen333.jpg",
+        "codigo": "FFC5050500",
+        "clave": "4198484982",
+        "descripcion": "KIT FOCO LED 8 CARAS 9005",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen334.jpg",
+        "codigo": "FFC5050600",
+        "clave": "4198484983",
+        "descripcion": "KIT FOCO LED 8 CARAS 9006",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen335.jpg",
+        "codigo": "FFC5050700",
+        "clave": "4198484984",
+        "descripcion": "KIT FOCO LED 8 CARAS 880",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen336.jpg",
+        "codigo": "FFC5050800",
+        "clave": "4198484985",
+        "descripcion": "KIT FOCO LED 8 CARAS H4",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen337.jpg",
+        "codigo": "FFC5050900",
+        "clave": "4198484986",
+        "descripcion": "KIT FOCO LED 8 CARAS 9004",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen338.jpg",
+        "codigo": "FFC5051000",
+        "clave": "4198484987",
+        "descripcion": "KIT FOCO LED 8 CARAS 9007",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen339.jpg",
+        "codigo": "FFC5051100",
+        "clave": "4198484988",
+        "descripcion": "KIT FOCO LED 8 CARAS H13",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen340.jpg",
+        "codigo": "FFC5060100",
+        "clave": "4198484989",
+        "descripcion": "KIT LED H1 CREE 2 CARAS",
+        "precio": "89570"
+    },
+    {
+        "imagen": "/imagenes/imagen341.jpg",
+        "codigo": "FFC5060400",
+        "clave": "4198484992",
+        "descripcion": "KIT LED H11 CREE 2 CARAS",
+        "precio": "89570"
+    },
+    {
+        "imagen": "/imagenes/imagen342.jpg",
+        "codigo": "FFC5060500",
+        "clave": "4198484993",
+        "descripcion": "KIT LED 9005 CREE 2 CARAS",
+        "precio": "89570"
+    },
+    {
+        "imagen": "/imagenes/imagen343.jpg",
+        "codigo": "FFC5060900",
+        "clave": "4198484997",
+        "descripcion": "KIT LED 9004 H/L CREE 2 CARAS",
+        "precio": "106470"
+    },
+    {
+        "imagen": "/imagenes/imagen344.jpg",
+        "codigo": "FFC5061000",
+        "clave": "4198484998",
+        "descripcion": "KIT LED 9007 H/L CREE 2 CARAS",
+        "precio": "106470"
+    },
+    {
+        "imagen": "/imagenes/imagen345.jpg",
+        "codigo": "FFC5061100",
+        "clave": "4198484999",
+        "descripcion": "KIT LED H13 H/L CREE 2 CARAS",
+        "precio": "106470"
+    },
+    {
+        "imagen": "/imagenes/imagen346.jpg",
+        "codigo": "FFC5070100",
+        "clave": "4198485112",
+        "descripcion": "BOMBILLO LED H1",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen347.jpg",
+        "codigo": "FFC5070200",
+        "clave": "4198485113",
+        "descripcion": "BOMBILLO LED  H3",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen348.jpg",
+        "codigo": "FFC5070300",
+        "clave": "4198485114",
+        "descripcion": "BOMBILLO LED  H7",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen349.jpg",
+        "codigo": "FFC5070400",
+        "clave": "4198485115",
+        "descripcion": "BOMBILLO LED  H11",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen350.jpg",
+        "codigo": "FFC5070600",
+        "clave": "4198485117",
+        "descripcion": "BOMBILLO LED  9006",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen351.jpg",
+        "codigo": "FFC5070700",
+        "clave": "4198485118",
+        "descripcion": "BOMBILLO LED  880",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen352.jpg",
+        "codigo": "FFC5070800",
+        "clave": "4198485119",
+        "descripcion": "BOMBILLO LED  H4",
+        "precio": "152100"
+    },
+    {
+        "imagen": "/imagenes/imagen353.jpg",
+        "codigo": "FFC5070900",
+        "clave": "4198485120",
+        "descripcion": "BOMBILLO LED  9004",
+        "precio": "152100"
+    },
+    {
+        "imagen": "/imagenes/imagen354.jpg",
+        "codigo": "FFC5071000",
+        "clave": "4198485121",
+        "descripcion": "BOMBILLO 9007",
+        "precio": "152100"
+    },
+    {
+        "imagen": "/imagenes/imagen355.jpg",
+        "codigo": "FFC5071100",
+        "clave": "4198485122",
+        "descripcion": "BOMBILLO LED  H13",
+        "precio": "152100"
+    },
+    {
+        "imagen": "/imagenes/imagen356.jpg",
+        "codigo": "FFC6000600",
+        "clave": "4198484917",
+        "descripcion": "KIT BOMBILLOS LED H13-3",
+        "precio": "42250"
+    },
+    {
+        "imagen": "/imagenes/imagen357.jpg",
+        "codigo": "FFC6000900",
+        "clave": "4198484920",
+        "descripcion": "KIT FOCO LED 9004",
+        "precio": "42250"
+    },
+    {
+        "imagen": "/imagenes/imagen358.jpg",
+        "codigo": "FFC6001000",
+        "clave": "4198484921",
+        "descripcion": "KIT BOMBILLOS LED 9007",
+        "precio": "42250"
+    },
+    {
+        "imagen": "/imagenes/imagen359.jpg",
+        "codigo": "FFC6010900",
+        "clave": "4198485109",
+        "descripcion": "KIT LED 9004 H/L COB 2 CARAS",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen360.jpg",
+        "codigo": "FFC6011000",
+        "clave": "4198485110",
+        "descripcion": "KIT LED 9007 H/L COB 2 CARAS",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen361.jpg",
+        "codigo": "FFC6011100",
+        "clave": "4198485111",
+        "descripcion": "KIT LED H13 H/L COB 2 CARAS",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen362.jpg",
+        "codigo": "FFC7000500",
+        "clave": "4198484905",
+        "descripcion": "KIT FOCO LED H11 2 CARAS",
+        "precio": "79430"
+    },
+    {
+        "imagen": "/imagenes/imagen363.jpg",
+        "codigo": "FFC7000600",
+        "clave": "4198484906",
+        "descripcion": "KIT H13 LED 2 COB CARAS",
+        "precio": "87880"
+    },
+    {
+        "imagen": "/imagenes/imagen364.jpg",
+        "codigo": "FFC7000900",
+        "clave": "4198484909",
+        "descripcion": "KIT LED 9004 COB 2 CARAS",
+        "precio": "87880"
+    },
+    {
+        "imagen": "/imagenes/imagen365.jpg",
+        "codigo": "FFC7001000",
+        "clave": "4198484910",
+        "descripcion": "KIT LED 9007  COB 2 CARAS",
+        "precio": "87880"
+    },
+    {
+        "imagen": "/imagenes/imagen366.jpg",
+        "codigo": "FFC7001100",
+        "clave": "4198484911",
+        "descripcion": "KIT FOCO LED 880 2 CARAS",
+        "precio": "86190"
+    },
+    {
+        "imagen": "/imagenes/imagen367.jpg",
+        "codigo": "FFC8000100",
+        "clave": "4198484873",
+        "descripcion": "KIT H1 LED CREE 2 CARAS",
+        "precio": "128440"
+    },
+    {
+        "imagen": "/imagenes/imagen368.jpg",
+        "codigo": "FFC8000400",
+        "clave": "4198484876",
+        "descripcion": "KIT 9004 LED CREE 2 CARAS",
+        "precio": "158860"
+    },
+    {
+        "imagen": "/imagenes/imagen369.jpg",
+        "codigo": "FFC8000500",
+        "clave": "4198484877",
+        "descripcion": "KIT 9007 LED CREE 2 CARAS",
+        "precio": "158860"
+    },
+    {
+        "imagen": "/imagenes/imagen370.jpg",
+        "codigo": "FFC8000600",
+        "clave": "4198484878",
+        "descripcion": "KIT 9005 LED CREE 2 CARAS",
+        "precio": "126750"
+    },
+    {
+        "imagen": "/imagenes/imagen371.jpg",
+        "codigo": "FFC8000700",
+        "clave": "4198484879",
+        "descripcion": "KIT 9006 LED CREE 2 CARAS",
+        "precio": "126750"
+    },
+    {
+        "imagen": "/imagenes/imagen372.jpg",
+        "codigo": "FFC8000800",
+        "clave": "4198484869",
+        "descripcion": "KIT LED H13 CREE 2 CARAS",
+        "precio": "158860"
+    },
+    {
+        "imagen": "/imagenes/imagen373.jpg",
+        "codigo": "FFC8000900",
+        "clave": "4198484868",
+        "descripcion": "KIT LED H3 CREE 2 CARAS",
+        "precio": "126750"
+    },
+    {
+        "imagen": "/imagenes/imagen374.jpg",
+        "codigo": "FFC8001100",
+        "clave": "4198484866",
+        "descripcion": "KIT LED 880 CREE 2 CARAS",
+        "precio": "126750"
+    },
+    {
+        "imagen": "/imagenes/imagen375.jpg",
+        "codigo": "FFC8010100",
+        "clave": "4198485134",
+        "descripcion": "KIT FOCO LED H1",
+        "precio": "76050"
+    },
+    {
+        "imagen": "/imagenes/imagen376.jpg",
+        "codigo": "FFC8010200",
+        "clave": "4198485135",
+        "descripcion": "KIT FOCO LED H3",
+        "precio": "76050"
+    },
+    {
+        "imagen": "/imagenes/imagen377.jpg",
+        "codigo": "FFC8010300",
+        "clave": "4198485136",
+        "descripcion": "KIT FOCO LED H7",
+        "precio": "76050"
+    },
+    {
+        "imagen": "/imagenes/imagen378.jpg",
+        "codigo": "FFC8010400",
+        "clave": "4198485137",
+        "descripcion": "KIT FOCO LED H11",
+        "precio": "76050"
+    },
+    {
+        "imagen": "/imagenes/imagen379.jpg",
+        "codigo": "FFC8010500",
+        "clave": "4198485138",
+        "descripcion": "KIT FOCO LED 9005",
+        "precio": "76050"
+    },
+    {
+        "imagen": "/imagenes/imagen380.jpg",
+        "codigo": "FFC8010600",
+        "clave": "4198485139",
+        "descripcion": "KIT FOCO LED 9006",
+        "precio": "76050"
+    },
+    {
+        "imagen": "/imagenes/imagen381.jpg",
+        "codigo": "FFC8010700",
+        "clave": "4198485140",
+        "descripcion": "KIT FOCO LED 880",
+        "precio": "76050"
+    },
+    {
+        "imagen": "/imagenes/imagen382.jpg",
+        "codigo": "FFC8010800",
+        "clave": "4198485141",
+        "descripcion": "KIT FOCO LED H4 H/L",
+        "precio": "84500"
+    },
+    {
+        "imagen": "/imagenes/imagen383.jpg",
+        "codigo": "FFC8010900",
+        "clave": "4198485142",
+        "descripcion": "KIT FOCO LED 9004 H/L",
+        "precio": "84500"
+    },
+    {
+        "imagen": "/imagenes/imagen384.jpg",
+        "codigo": "FFC8011000",
+        "clave": "4198485143",
+        "descripcion": "KIT FOCO LED 9007 H/L",
+        "precio": "84500"
+    },
+    {
+        "imagen": "/imagenes/imagen385.jpg",
+        "codigo": "FFC8011100",
+        "clave": "4198485144",
+        "descripcion": "KIT FOCO LED H13 H/L",
+        "precio": "84500"
+    },
+    {
+        "imagen": "/imagenes/imagen386.jpg",
+        "codigo": "FFC9000200",
+        "clave": "4198484881",
+        "descripcion": "KIT FOCO LED H3 2 CARAS",
+        "precio": "155480"
+    },
+    {
+        "imagen": "/imagenes/imagen387.jpg",
+        "codigo": "FFC9000600",
+        "clave": "4198484885",
+        "descripcion": "KIT LED 9004 BLANCO/ AMBAR",
+        "precio": "167310"
+    },
+    {
+        "imagen": "/imagenes/imagen388.jpg",
+        "codigo": "FFC9000700",
+        "clave": "4198484886",
+        "descripcion": "KIT FOCO LED 9005 2 CARAS",
+        "precio": "155480"
+    },
+    {
+        "imagen": "/imagenes/imagen389.jpg",
+        "codigo": "FFC9000800",
+        "clave": "4198484887",
+        "descripcion": "KIT LED 9006 BLANCO/ AMBAR",
+        "precio": "155480"
+    },
+    {
+        "imagen": "/imagenes/imagen390.jpg",
+        "codigo": "FFC9000900",
+        "clave": "4198484888",
+        "descripcion": "KIT LED 9007 BLANCO/ AMBAR",
+        "precio": "167310"
+    },
+    {
+        "imagen": "/imagenes/imagen391.jpg",
+        "codigo": "FFC9001000",
+        "clave": "4198484889",
+        "descripcion": "KIT LED H13 BLANCO/ AMBAR",
+        "precio": "167310"
+    },
+    {
+        "imagen": "/imagenes/imagen392.jpg",
+        "codigo": "FGC5215100",
+        "clave": "4298180524",
+        "descripcion": "BOMBILLO LED T5 AZUL",
+        "precio": "1352"
+    },
+    {
+        "imagen": "/imagenes/imagen393.jpg",
+        "codigo": "FGC5701000",
+        "clave": "4198180583",
+        "descripcion": "BOMBILLO LED T10 7 LED AZUL",
+        "precio": "3211"
+    },
+    {
+        "imagen": "/imagenes/imagen394.jpg",
+        "codigo": "FGC5701100",
+        "clave": "4298180525",
+        "descripcion": "BOMBILLO LED T10 7 LED BLANCO",
+        "precio": "3211"
+    },
+    {
+        "imagen": "/imagenes/imagen395.jpg",
+        "codigo": "FGC5701200",
+        "clave": "4298180526",
+        "descripcion": "BOMBILLO LED T10 7 LEDS ROJO",
+        "precio": "3211"
+    },
+    {
+        "imagen": "/imagenes/imagen396.jpg",
+        "codigo": "FGC5706800",
+        "clave": "4198141564",
+        "descripcion": "BOMBILLO LED T10 BLANCO",
+        "precio": "5915"
+    },
+    {
+        "imagen": "/imagenes/imagen397.jpg",
+        "codigo": "FGC5706900",
+        "clave": "4198141565",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "5915"
+    },
+    {
+        "imagen": "/imagenes/imagen398.jpg",
+        "codigo": "FGC5707200",
+        "clave": "4198141568",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "5915"
+    },
+    {
+        "imagen": "/imagenes/imagen399.jpg",
+        "codigo": "FGC5707300",
+        "clave": "4198141569",
+        "descripcion": "BOMBILLO LED T10 ROJO",
+        "precio": "5915"
+    },
+    {
+        "imagen": "/imagenes/imagen400.jpg",
+        "codigo": "FGC5707400",
+        "clave": "4198141570",
+        "descripcion": "BOMBILLO LED T10 BLANCO",
+        "precio": "6929"
+    },
+    {
+        "imagen": "/imagenes/imagen401.jpg",
+        "codigo": "FGC5707500",
+        "clave": "4198141571",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "6929"
+    },
+    {
+        "imagen": "/imagenes/imagen402.jpg",
+        "codigo": "FGC5707600",
+        "clave": "4198141572",
+        "descripcion": "BOMBILLO LED T10 ROJO",
+        "precio": "6929"
+    },
+    {
+        "imagen": "/imagenes/imagen403.jpg",
+        "codigo": "FGC5707700",
+        "clave": "4198141573",
+        "descripcion": "BOMBILLO LED T10 BLANCO",
+        "precio": "6929"
+    },
+    {
+        "imagen": "/imagenes/imagen404.jpg",
+        "codigo": "FGC5707800",
+        "clave": "4198141574",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "6929"
+    },
+    {
+        "imagen": "/imagenes/imagen405.jpg",
+        "codigo": "FGC5707900",
+        "clave": "4198141575",
+        "descripcion": "BOMBILLO LED T10 ROJO",
+        "precio": "6929"
+    },
+    {
+        "imagen": "/imagenes/imagen406.jpg",
+        "codigo": "FGC5708100",
+        "clave": "4198141577",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "6929"
+    },
+    {
+        "imagen": "/imagenes/imagen407.jpg",
+        "codigo": "FGC5708300",
+        "clave": "4198141579",
+        "descripcion": "BOMBILLO LED T10 BLANCO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen408.jpg",
+        "codigo": "FGC5708400",
+        "clave": "4198141580",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen409.jpg",
+        "codigo": "FGC5708500",
+        "clave": "4198141581",
+        "descripcion": "BOMBILLO LED T10 ROJO",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen410.jpg",
+        "codigo": "FGC5708700",
+        "clave": "4198141583",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "7605"
+    },
+    {
+        "imagen": "/imagenes/imagen411.jpg",
+        "codigo": "FGC5708900",
+        "clave": "4198141585",
+        "descripcion": "BOMBILLO LED 1157 FIJO/STROB BALNCO",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen412.jpg",
+        "codigo": "FGC5709000",
+        "clave": "4198141586",
+        "descripcion": "BOMBILLO LED 1157 FIJO/STROB AZUL",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen413.jpg",
+        "codigo": "FGC5709200",
+        "clave": "4198141588",
+        "descripcion": "BOMBILLO LED 1156 BLANCO",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen414.jpg",
+        "codigo": "FGC5709300",
+        "clave": "4198141589",
+        "descripcion": "BOMBILLO LED 1156 AZUL",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen415.jpg",
+        "codigo": "FGC5709500",
+        "clave": "4198141591",
+        "descripcion": "BOMBILLO LED 3157 FIJO/STROB BLANCO",
+        "precio": "10985"
+    },
+    {
+        "imagen": "/imagenes/imagen416.jpg",
+        "codigo": "FGC5709600",
+        "clave": "4198141592",
+        "descripcion": "BOMBILLO LED 3157 FIJO/STROB AZUL",
+        "precio": "10985"
+    },
+    {
+        "imagen": "/imagenes/imagen417.jpg",
+        "codigo": "FGC5709800",
+        "clave": "4198141594",
+        "descripcion": "BOMBILO LED 3157 BLANCO",
+        "precio": "7943"
+    },
+    {
+        "imagen": "/imagenes/imagen418.jpg",
+        "codigo": "FGC5709900",
+        "clave": "4198141595",
+        "descripcion": "BOMBILLO LED 3157 AZUL",
+        "precio": "7943"
+    },
+    {
+        "imagen": "/imagenes/imagen419.jpg",
+        "codigo": "FGC5710000",
+        "clave": "4198141596",
+        "descripcion": "BOMBILLO LED 3157 ROJO",
+        "precio": "7943"
+    },
+    {
+        "imagen": "/imagenes/imagen420.jpg",
+        "codigo": "FGC5730100",
+        "clave": "4598140701",
+        "descripcion": "FOCO PELLISCO BLANCO12 LED CANBUS 12/24V",
+        "precio": "13013"
+    },
+    {
+        "imagen": "/imagenes/imagen421.jpg",
+        "codigo": "FGC5730200",
+        "clave": "4598140702",
+        "descripcion": "FOCO PELLISCO AZUL 12 LED CANBUS 12/24V",
+        "precio": "13013"
+    },
+    {
+        "imagen": "/imagenes/imagen422.jpg",
+        "codigo": "FGC5730300",
+        "clave": "4598140703",
+        "descripcion": "FOCO PELLISCO ROJO 12 LED CANBUS 12/24V",
+        "precio": "13013"
+    },
+    {
+        "imagen": "/imagenes/imagen423.jpg",
+        "codigo": "FGC5730400",
+        "clave": "4598140704",
+        "descripcion": "FOCO PELLISCO AMBAR 12 LED CANBUS 12/24V",
+        "precio": "13013"
+    },
+    {
+        "imagen": "/imagenes/imagen424.jpg",
+        "codigo": "FGC5730500",
+        "clave": "4598140705",
+        "descripcion": "FOCO PELLISCO ICE 12 LED CANBUS 12/24V",
+        "precio": "13013"
+    },
+    {
+        "imagen": "/imagenes/imagen425.jpg",
+        "codigo": "FGC5730600",
+        "clave": "4598140706",
+        "descripcion": "FOCO PELLISCO BLANCO 18 LED CANBUS 12/24V",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen426.jpg",
+        "codigo": "FGC5730700",
+        "clave": "4598140707",
+        "descripcion": "FOCO PELLISCO AZUL 18 LED CANBUS 12/24V",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen427.jpg",
+        "codigo": "FGC5730800",
+        "clave": "4598140708",
+        "descripcion": "FOCO PELLISCO ROJO 18 LED CANBUS 12/24V",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen428.jpg",
+        "codigo": "FGC5730900",
+        "clave": "4598140709",
+        "descripcion": "FOCO PELLISCO AMBAR 18 LED CANBUS 12/24V",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen429.jpg",
+        "codigo": "FGC5731000",
+        "clave": "4598140710",
+        "descripcion": "FOCO PELLISCO ICE 18 LED CANBUS 12/24V",
+        "precio": "11830"
+    },
+    {
+        "imagen": "/imagenes/imagen430.jpg",
+        "codigo": "FGC5731100",
+        "clave": "4598140711",
+        "descripcion": "FOCO PELLISCO BLANCO 18 LED CANBUS 12/24V",
+        "precio": "13013"
+    },
+    {
+        "imagen": "/imagenes/imagen431.jpg",
+        "codigo": "FGC5731200",
+        "clave": "4598140712",
+        "descripcion": "FOCO PELLISCO AZUL 18 LED CANBUS 12/24V",
+        "precio": "14872"
+    },
+    {
+        "imagen": "/imagenes/imagen432.jpg",
+        "codigo": "FGC5731300",
+        "clave": "4598140713",
+        "descripcion": "FOCO PELLISCO ROJO 18 LED CANBUS 12/24V",
+        "precio": "14872"
+    },
+    {
+        "imagen": "/imagenes/imagen433.jpg",
+        "codigo": "FGC5731400",
+        "clave": "4598140714",
+        "descripcion": "FOCO PELLISCO AMBAR 18 LED CANBUS 12/24V",
+        "precio": "14872"
+    },
+    {
+        "imagen": "/imagenes/imagen434.jpg",
+        "codigo": "FGC5731500",
+        "clave": "4598140715",
+        "descripcion": "FOCO PELLISCO ICE 18 LED CANBUS 12/24V",
+        "precio": "14872"
+    },
+    {
+        "imagen": "/imagenes/imagen435.jpg",
+        "codigo": "FGC5731600",
+        "clave": "4598140716",
+        "descripcion": "FOCO PELLISCO BLANCO 8 LED 12V STROBO",
+        "precio": "5070"
+    },
+    {
+        "imagen": "/imagenes/imagen436.jpg",
+        "codigo": "FGC5731900",
+        "clave": "4598140719",
+        "descripcion": "FOCO PELLISCO BLANCO 23 LED CANBUS 12/24V",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen437.jpg",
+        "codigo": "FGC5732000",
+        "clave": "4598140720",
+        "descripcion": "FOCO PELLISCO AZUL 23 LED CANBUS 12/24V",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen438.jpg",
+        "codigo": "FGC5732100",
+        "clave": "4598140721",
+        "descripcion": "FOCO PELLISCO ROJO 23 LED CANBUS 12/24V",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen439.jpg",
+        "codigo": "FGC5732200",
+        "clave": "4598140722",
+        "descripcion": "FOCO PELLISCO AMBAR 23 LED CANBUS 12/24V",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen440.jpg",
+        "codigo": "FGC5732300",
+        "clave": "4598140723",
+        "descripcion": "FOCO PELLISCO ICE 23 LED CANBUS 12/24V",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen441.jpg",
+        "codigo": "FGC5732400",
+        "clave": "4598140724",
+        "descripcion": "FOCO PELLISCO VERDE 23 LED CANBUS 12/24V",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen442.jpg",
+        "codigo": "FGC5732500",
+        "clave": "4598140725",
+        "descripcion": "FOCO PELLISCO BLANCO 19 LED CANBUS 12/24V",
+        "precio": "28392"
+    },
+    {
+        "imagen": "/imagenes/imagen443.jpg",
+        "codigo": "FGC5732600",
+        "clave": "4598140726",
+        "descripcion": "FOCO PELLISCO AZUL 19 LED CANBUS 12/24V",
+        "precio": "28392"
+    },
+    {
+        "imagen": "/imagenes/imagen444.jpg",
+        "codigo": "FGC5732800",
+        "clave": "4598140728",
+        "descripcion": "FOCO PELLISCO ROJO 19 LED CANBUS 12/24V",
+        "precio": "28392"
+    },
+    {
+        "imagen": "/imagenes/imagen445.jpg",
+        "codigo": "FGC5732900",
+        "clave": "4598140729",
+        "descripcion": "FOCO PELLISCO AMBAR 19 LED CANBUS 12/24V",
+        "precio": "28392"
+    },
+    {
+        "imagen": "/imagenes/imagen446.jpg",
+        "codigo": "FGC5733000",
+        "clave": "4598140730",
+        "descripcion": "FOCO PELLISCO VERDE 19 LED CANBUS 12/24V",
+        "precio": "28392"
+    },
+    {
+        "imagen": "/imagenes/imagen447.jpg",
+        "codigo": "FGC5733100",
+        "clave": "4598140731",
+        "descripcion": "FOCO 7440 BLANCO 24 LED CANBUS 12/24V",
+        "precio": "18590"
+    },
+    {
+        "imagen": "/imagenes/imagen448.jpg",
+        "codigo": "FGC5733200",
+        "clave": "4598140732",
+        "descripcion": "FOCO 7440 AZUL 24 LED CANBUS 12/24V",
+        "precio": "18590"
+    },
+    {
+        "imagen": "/imagenes/imagen449.jpg",
+        "codigo": "FGC5733300",
+        "clave": "4598140733",
+        "descripcion": "FOCO 7440 ROJO 24 LED CANBUS 12/24V",
+        "precio": "18590"
+    },
+    {
+        "imagen": "/imagenes/imagen450.jpg",
+        "codigo": "FGC5733400",
+        "clave": "4598140734",
+        "descripcion": "FOCO 7440 AMBAR 24 LED CANBUS 12/24V",
+        "precio": "18590"
+    },
+    {
+        "imagen": "/imagenes/imagen451.jpg",
+        "codigo": "FGC5733500",
+        "clave": "4598140735",
+        "descripcion": "FOCO 7440 ICE 24 LED CANBUS 12/24V",
+        "precio": "18590"
+    },
+    {
+        "imagen": "/imagenes/imagen452.jpg",
+        "codigo": "FGC5733600",
+        "clave": "4598140736",
+        "descripcion": "FOCO 7440 VERDE 24 LED CANBUS 12/24V",
+        "precio": "18590"
+    },
+    {
+        "imagen": "/imagenes/imagen453.jpg",
+        "codigo": "FGC5733700",
+        "clave": "4598140737",
+        "descripcion": "FOCO 7440 BLANCO 24 LED CANBUS 12/24V",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen454.jpg",
+        "codigo": "FGC5733800",
+        "clave": "4598140738",
+        "descripcion": "FOCO 7440 AZUL 24 LED CANBUS 12/24V",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen455.jpg",
+        "codigo": "FGC5733900",
+        "clave": "4598140739",
+        "descripcion": "FOCO 7440 ROJO 24 LED CANBUS 12/24V",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen456.jpg",
+        "codigo": "FGC5734000",
+        "clave": "4598140740",
+        "descripcion": "FOCO 7440 AMBAR 24 LED CANBUS 12/24V",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen457.jpg",
+        "codigo": "FGC5734100",
+        "clave": "4598140741",
+        "descripcion": "FOCO 7440 ICE 24 LED CANBUS 12/24V",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen458.jpg",
+        "codigo": "FGC5734200",
+        "clave": "4598140742",
+        "descripcion": "FOCO 7440 VERDE 24 LED CANBUS 12/24V",
+        "precio": "21125"
+    },
+    {
+        "imagen": "/imagenes/imagen459.jpg",
+        "codigo": "FGC5734300",
+        "clave": "4598140743",
+        "descripcion": "FOCO 1156 103 LED BLANCO",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen460.jpg",
+        "codigo": "FGC5734400",
+        "clave": "4598140744",
+        "descripcion": "FOCO 1156 103 LED AZUL",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen461.jpg",
+        "codigo": "FGC5734500",
+        "clave": "4598140745",
+        "descripcion": "FOCO 1156 103 LED ROJO",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen462.jpg",
+        "codigo": "FGC5734600",
+        "clave": "4598140746",
+        "descripcion": "FOCO 1156 103 LED VERDE",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen463.jpg",
+        "codigo": "FGC5734800",
+        "clave": "4598140748",
+        "descripcion": "FOCO 1156 103 LED ICE",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen464.jpg",
+        "codigo": "FGC5735000",
+        "clave": "4598140750",
+        "descripcion": "FOCO 1157 103 LED BLANCO",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen465.jpg",
+        "codigo": "FGC5735100",
+        "clave": "4598140751",
+        "descripcion": "FOCO 1157 103 LED AZUL",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen466.jpg",
+        "codigo": "FGC5735200",
+        "clave": "4598140752",
+        "descripcion": "FOCO 1157 103 LED ROJO",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen467.jpg",
+        "codigo": "FGC5735300",
+        "clave": "4598140753",
+        "descripcion": "FOCO 1157 103 LED AMBAR",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen468.jpg",
+        "codigo": "FGC5735400",
+        "clave": "4598140754",
+        "descripcion": "FOCO 1157 103 LED VERDE",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen469.jpg",
+        "codigo": "FGC5735500",
+        "clave": "4598140755",
+        "descripcion": "FOCO 1157 103 LED ICE",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen470.jpg",
+        "codigo": "FGC5735700",
+        "clave": "4598140757",
+        "descripcion": "FOCO 7443 103 LED BLANCO",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen471.jpg",
+        "codigo": "FGC5735800",
+        "clave": "4598140758",
+        "descripcion": "FOCO 7443 103 LED AZUL",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen472.jpg",
+        "codigo": "FGC5735900",
+        "clave": "4598140759",
+        "descripcion": "FOCO 7443 103 LED ROJO",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen473.jpg",
+        "codigo": "FGC5736000",
+        "clave": "4598140760",
+        "descripcion": "FOCO 7443 103 LED AMBAR",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen474.jpg",
+        "codigo": "FGC5736100",
+        "clave": "4598140761",
+        "descripcion": "FOCO 7443 103 LED VERDE",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen475.jpg",
+        "codigo": "FGC5736200",
+        "clave": "4598140762",
+        "descripcion": "FOCO 7443 103 LED ICE",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen476.jpg",
+        "codigo": "FGC5736400",
+        "clave": "4598140764",
+        "descripcion": "FOCO 3157 103 LED BLANCO",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen477.jpg",
+        "codigo": "FGC5736500",
+        "clave": "4598140765",
+        "descripcion": "FOCO 3157 103 LED AZUL",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen478.jpg",
+        "codigo": "FGC5736600",
+        "clave": "4598140766",
+        "descripcion": "FOCO 3157 103 LED ROJO",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen479.jpg",
+        "codigo": "FGC5736700",
+        "clave": "4598140767",
+        "descripcion": "FOCO 3157 103 LED VERDE",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen480.jpg",
+        "codigo": "FGC5736800",
+        "clave": "4598140768",
+        "descripcion": "FOCO 3157 103 LED AMBAR",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen481.jpg",
+        "codigo": "FGC5736900",
+        "clave": "4598140769",
+        "descripcion": "FOCO 3157 103 LED ICE",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen482.jpg",
+        "codigo": "FGC5737100",
+        "clave": "4598140771",
+        "descripcion": "FOCO 1156 144 LED BLANCO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen483.jpg",
+        "codigo": "FGC5737200",
+        "clave": "4598140772",
+        "descripcion": "FOCO 1156 144 LED AZUL",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen484.jpg",
+        "codigo": "FGC5737300",
+        "clave": "4598140773",
+        "descripcion": "FOCO 1156 144 LED ROJO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen485.jpg",
+        "codigo": "FGC5737400",
+        "clave": "4598140774",
+        "descripcion": "FOCO 1156 144 LED AMBAR",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen486.jpg",
+        "codigo": "FGC5737500",
+        "clave": "4598140775",
+        "descripcion": "FOCO 1156 144 LED VERDE",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen487.jpg",
+        "codigo": "FGC5737600",
+        "clave": "4598140776",
+        "descripcion": "FOCO 1156 144 LED ICE",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen488.jpg",
+        "codigo": "FGC5737800",
+        "clave": "4598140778",
+        "descripcion": "FOCO 1157 144 LED BLANCO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen489.jpg",
+        "codigo": "FGC5737900",
+        "clave": "4598140779",
+        "descripcion": "FOCO 1157 144 LED AZUL",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen490.jpg",
+        "codigo": "FGC5738000",
+        "clave": "4598140780",
+        "descripcion": "FOCO 1157 144 LED ROJO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen491.jpg",
+        "codigo": "FGC5738100",
+        "clave": "4598140781",
+        "descripcion": "FOCO 1157 144 LED AMBAR",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen492.jpg",
+        "codigo": "FGC5738200",
+        "clave": "4598140782",
+        "descripcion": "FOCO 1157 144 LED VERDE",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen493.jpg",
+        "codigo": "FGC5738300",
+        "clave": "4598140783",
+        "descripcion": "FOCO 1157 144 LED ICE",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen494.jpg",
+        "codigo": "FGC5738500",
+        "clave": "4598140785",
+        "descripcion": "FOCO 7443 144 LED BLANCO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen495.jpg",
+        "codigo": "FGC5738600",
+        "clave": "4598140786",
+        "descripcion": "FOCO 7443 144 LED AZUL",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen496.jpg",
+        "codigo": "FGC5738700",
+        "clave": "4598140787",
+        "descripcion": "FOCO 7443 144 LED ROJO",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen497.jpg",
+        "codigo": "FGC5738800",
+        "clave": "4598140788",
+        "descripcion": "FOCO 7443 144 LED AMBAR",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen498.jpg",
+        "codigo": "FGC5738900",
+        "clave": "4598140789",
+        "descripcion": "FOCO 7443 144 LED VERDE",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen499.jpg",
+        "codigo": "FGC5739000",
+        "clave": "4598140790",
+        "descripcion": "FOCO 7443 144 LED ICE",
+        "precio": "32110"
+    },
+    {
+        "imagen": "/imagenes/imagen500.jpg",
+        "codigo": "FGC5739200",
+        "clave": "4598140792",
+        "descripcion": "FOCO 1156 30 LED BLANCO STROBO",
+        "precio": "27885"
+    },
+    {
+        "imagen": "/imagenes/imagen501.jpg",
+        "codigo": "FGC5739300",
+        "clave": "4598140793",
+        "descripcion": "FOCO 1156 30 LED ROJO STROBO",
+        "precio": "27885"
+    },
+    {
+        "imagen": "/imagenes/imagen502.jpg",
+        "codigo": "FGC5739400",
+        "clave": "4598140794",
+        "descripcion": "FOCO 1156 30 LED AZUL STROBO",
+        "precio": "27885"
+    },
+    {
+        "imagen": "/imagenes/imagen503.jpg",
+        "codigo": "FGC5739500",
+        "clave": "4598140795",
+        "descripcion": "FOCO 1156 30 LED VERDE STROBO",
+        "precio": "27885"
+    },
+    {
+        "imagen": "/imagenes/imagen504.jpg",
+        "codigo": "FGC5739600",
+        "clave": "4598140796",
+        "descripcion": "FOCO 1156 30 LED AMBAR STROBO",
+        "precio": "27885"
+    },
+    {
+        "imagen": "/imagenes/imagen505.jpg",
+        "codigo": "FGC5739700",
+        "clave": "4598140797",
+        "descripcion": "FOCO 1156 30 LED ICE STROBO",
+        "precio": "27885"
+    },
+    {
+        "imagen": "/imagenes/imagen506.jpg",
+        "codigo": "FGC5788200",
+        "clave": "4298180531",
+        "descripcion": "BOMBILLO LED T10 9 LEDS BLANCO",
+        "precio": "4901"
+    },
+    {
+        "imagen": "/imagenes/imagen507.jpg",
+        "codigo": "FGC5788300",
+        "clave": "4298180532",
+        "descripcion": "BOMBILLO LED T10 9 LEDS AZUL",
+        "precio": "4901"
+    },
+    {
+        "imagen": "/imagenes/imagen508.jpg",
+        "codigo": "FGC5788700",
+        "clave": "4298180536",
+        "descripcion": "BOMBILLO LED T10 26 LEDS ROJO",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen509.jpg",
+        "codigo": "FGC5788800",
+        "clave": "4298180537",
+        "descripcion": "BOMBILLO LED T10 26 LEDS AMBAR",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen510.jpg",
+        "codigo": "FGC5788900",
+        "clave": "4298180538",
+        "descripcion": "BOMBILLO LEDT10 26 LEDS VERDE",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen511.jpg",
+        "codigo": "FGC5789500",
+        "clave": "4198180511",
+        "descripcion": "BOMBILLO LED T10 26 LEDS AZUL",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen512.jpg",
+        "codigo": "FGC5789600",
+        "clave": "4198180512",
+        "descripcion": "BOMBILLO LED T10 26 LEDS BLANCO",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen513.jpg",
+        "codigo": "FGC5789700",
+        "clave": "4198180582",
+        "descripcion": "BOMBILLO LED T10 5 LEDS AZUL",
+        "precio": "3380"
+    },
+    {
+        "imagen": "/imagenes/imagen514.jpg",
+        "codigo": "FGC5790800",
+        "clave": "4298180549",
+        "descripcion": "BOMBILLO LED 1156 BLANCO",
+        "precio": "16900"
+    },
+    {
+        "imagen": "/imagenes/imagen515.jpg",
+        "codigo": "FGC5790900",
+        "clave": "4298180550",
+        "descripcion": "BOMBILLO LED 1156 AZUL",
+        "precio": "16900"
+    },
+    {
+        "imagen": "/imagenes/imagen516.jpg",
+        "codigo": "FGC5791100",
+        "clave": "4298180552",
+        "descripcion": "BOMBILLO LED 1157 BLANCO",
+        "precio": "16900"
+    },
+    {
+        "imagen": "/imagenes/imagen517.jpg",
+        "codigo": "FGC5791200",
+        "clave": "4298180553",
+        "descripcion": "BOMBILLO LED 1157 AZUL",
+        "precio": "16900"
+    },
+    {
+        "imagen": "/imagenes/imagen518.jpg",
+        "codigo": "FGC5791300",
+        "clave": "4298180554",
+        "descripcion": "BOMBILLO LED 1157 AMBAR",
+        "precio": "16900"
+    },
+    {
+        "imagen": "/imagenes/imagen519.jpg",
+        "codigo": "FGC5791400",
+        "clave": "4298180555",
+        "descripcion": "BOMBILLO LED 1156 BLANCO",
+        "precio": "5577"
+    },
+    {
+        "imagen": "/imagenes/imagen520.jpg",
+        "codigo": "FGC5791500",
+        "clave": "4298180556",
+        "descripcion": "BOMBILLO LED 1156 AZUL",
+        "precio": "5577"
+    },
+    {
+        "imagen": "/imagenes/imagen521.jpg",
+        "codigo": "FGC5791600",
+        "clave": "4298180557",
+        "descripcion": "BOMBILLO LE 1156 AMBAR",
+        "precio": "5577"
+    },
+    {
+        "imagen": "/imagenes/imagen522.jpg",
+        "codigo": "FGC5796400",
+        "clave": "4198180546",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "1352"
+    },
+    {
+        "imagen": "/imagenes/imagen523.jpg",
+        "codigo": "FGC5796500",
+        "clave": "4198180553",
+        "descripcion": "BOMBILLO LED T10 BLANCO",
+        "precio": "1352"
+    },
+    {
+        "imagen": "/imagenes/imagen524.jpg",
+        "codigo": "FGC5796900",
+        "clave": "4198180549",
+        "descripcion": "BOMBILLO LED T10 AZUL",
+        "precio": "1352"
+    },
+    {
+        "imagen": "/imagenes/imagen525.jpg",
+        "codigo": "FGC5797000",
+        "clave": "4198180550",
+        "descripcion": "BOMBILLO LED T10 BLANCO",
+        "precio": "1352"
+    },
+    {
+        "imagen": "/imagenes/imagen526.jpg",
+        "codigo": "FGC5797100",
+        "clave": "4198180552",
+        "descripcion": "BOMBILLO LED T10 VERDE",
+        "precio": "1352"
+    },
+    {
+        "imagen": "/imagenes/imagen527.jpg",
+        "codigo": "FGC5797500",
+        "clave": "4198180541",
+        "descripcion": "BOMBILLO LED T10 4LEDS AZUL",
+        "precio": "2366"
+    },
+    {
+        "imagen": "/imagenes/imagen528.jpg",
+        "codigo": "FGC5797600",
+        "clave": "4198180542",
+        "descripcion": "BOMBILLO LED T10 4LEDS BLANCO",
+        "precio": "2366"
+    },
+    {
+        "imagen": "/imagenes/imagen529.jpg",
+        "codigo": "FGC5797700",
+        "clave": "4198180544",
+        "descripcion": "BOMBILLO LED T10 4 LEDS VERDE",
+        "precio": "2366"
+    },
+    {
+        "imagen": "/imagenes/imagen530.jpg",
+        "codigo": "FIC7694100",
+        "clave": "6198844204",
+        "descripcion": "UNIDAD LED 6052 9 LED C/LUZ DE DIA 45W",
+        "precio": "91260"
+    },
+    {
+        "imagen": "/imagenes/imagen531.jpg",
+        "codigo": "FIC7694200",
+        "clave": "6198844206",
+        "descripcion": "PAR UNIDAD 4651 15 LED  BAJA/ALTA",
+        "precio": "108160"
+    },
+    {
+        "imagen": "/imagenes/imagen532.jpg",
+        "codigo": "FIC7694300",
+        "clave": "6198844207",
+        "descripcion": "PAR UNIDAD 6052 15 LED BAJA/ALTA",
+        "precio": "113230"
+    },
+    {
+        "imagen": "/imagenes/imagen533.jpg",
+        "codigo": "FIC7696600",
+        "clave": "6198844226",
+        "descripcion": "UNIDAD 4651 C/LUPAS LUZ DE DIA,",
+        "precio": "98020"
+    },
+    {
+        "imagen": "/imagenes/imagen534.jpg",
+        "codigo": "FIC7697100",
+        "clave": "6198844231",
+        "descripcion": "UNIDAD DE LED 6052 BCA/AMBAR",
+        "precio": "87880"
+    },
+    {
+        "imagen": "/imagenes/imagen535.jpg",
+        "codigo": "FIC7697400",
+        "clave": "6198844234",
+        "descripcion": "UNIDAD DE LED 5 3/4 AMBAR PAR",
+        "precio": "150410"
+    },
+    {
+        "imagen": "/imagenes/imagen536.jpg",
+        "codigo": "FIC7698400",
+        "clave": "6198844244",
+        "descripcion": "UNIDAD 4651 ARILLO VERDE",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen537.jpg",
+        "codigo": "FIC7698900",
+        "clave": "6198844249",
+        "descripcion": "UNIDAD 6052 ARILLO VERDE",
+        "precio": "79430"
+    },
+    {
+        "imagen": "/imagenes/imagen538.jpg",
+        "codigo": "FIC7699100",
+        "clave": "6198844217",
+        "descripcion": "UNIDAD REDONDA 7”\n15 LED BAJA/ALTA",
+        "precio": "91260"
+    },
+    {
+        "imagen": "/imagenes/imagen539.jpg",
+        "codigo": "FIC8001000",
+        "clave": "6198844267",
+        "descripcion": "UNIDAD DE LED REDONDA 7",
+        "precio": "126750"
+    },
+    {
+        "imagen": "/imagenes/imagen540.jpg",
+        "codigo": "FIC8001400",
+        "clave": "6198844271",
+        "descripcion": "UNIDAD LED 7”",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen541.jpg",
+        "codigo": "FIC8001900",
+        "clave": "6198844276",
+        "descripcion": "UNIDAD DE LED 7",
+        "precio": "116610"
+    },
+    {
+        "imagen": "/imagenes/imagen542.jpg",
+        "codigo": "FIC8002200",
+        "clave": "6198844279",
+        "descripcion": "UNIDAD DE LED 7",
+        "precio": "150410"
+    },
+    {
+        "imagen": "/imagenes/imagen543.jpg",
+        "codigo": "FIC8002600",
+        "clave": "6198844283",
+        "descripcion": "UNIDAD DE LED 7",
+        "precio": "143650"
+    },
+    {
+        "imagen": "/imagenes/imagen544.jpg",
+        "codigo": "FIC8003800",
+        "clave": "6198844297",
+        "descripcion": "UNIDAD DE LED 5”",
+        "precio": "118300"
+    },
+    {
+        "imagen": "/imagenes/imagen545.jpg",
+        "codigo": "FIC8004000",
+        "clave": "6198844299",
+        "descripcion": "UNIDAD DE LED 5” DER",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen546.jpg",
+        "codigo": "FIC8004100",
+        "clave": "6198844101",
+        "descripcion": "UNIDAD DE LED 5” IZQ",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen547.jpg",
+        "codigo": "FIC8004200",
+        "clave": "6198844102",
+        "descripcion": "UNIDAD DE LED 7” DER",
+        "precio": "150410"
+    },
+    {
+        "imagen": "/imagenes/imagen548.jpg",
+        "codigo": "FIC8004300",
+        "clave": "6198844103",
+        "descripcion": "UNIDAD DE LED 7” IZQ",
+        "precio": "150410"
+    },
+    {
+        "imagen": "/imagenes/imagen549.jpg",
+        "codigo": "FIC8004400",
+        "clave": "6198844104",
+        "descripcion": "UNIDAD DE LED 7”",
+        "precio": "143650"
+    },
+    {
+        "imagen": "/imagenes/imagen550.jpg",
+        "codigo": "FIC8004500",
+        "clave": "6198844105",
+        "descripcion": "UNIDAD DE LED 6052",
+        "precio": "170690"
+    },
+    {
+        "imagen": "/imagenes/imagen551.jpg",
+        "codigo": "FIC8004600",
+        "clave": "6198844106",
+        "descripcion": "UNIDAD DE LED 7”",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen552.jpg",
+        "codigo": "FIC8005000",
+        "clave": "6198844110",
+        "descripcion": "UNIDAD CON DIRECCIONAL R 5”",
+        "precio": "118300"
+    },
+    {
+        "imagen": "/imagenes/imagen553.jpg",
+        "codigo": "FIC8005100",
+        "clave": "6198844111",
+        "descripcion": "UNIDAD CON DIRECCIONAL L 5”",
+        "precio": "118300"
+    },
+    {
+        "imagen": "/imagenes/imagen554.jpg",
+        "codigo": "FIC8005200",
+        "clave": "6198844112",
+        "descripcion": "UNIDAD CON DIRECCIONAL R 7”",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen555.jpg",
+        "codigo": "FIC8005300",
+        "clave": "6198844113",
+        "descripcion": "UNIDAD CON DIRECCIONAL L 7”",
+        "precio": "157170"
+    },
+    {
+        "imagen": "/imagenes/imagen556.jpg",
+        "codigo": "FIC8005600",
+        "clave": "6198844116",
+        "descripcion": "UNIDAD 7”",
+        "precio": "145340"
+    },
+    {
+        "imagen": "/imagenes/imagen557.jpg",
+        "codigo": "FIC8005700",
+        "clave": "6198844117",
+        "descripcion": "UNIDAD 7”",
+        "precio": "145340"
+    },
+    {
+        "imagen": "/imagenes/imagen558.jpg",
+        "codigo": "FIC8005800",
+        "clave": "6198844118",
+        "descripcion": "UNIDAD 7”",
+        "precio": "138580"
+    },
+    {
+        "imagen": "/imagenes/imagen559.jpg",
+        "codigo": "FIC8005900",
+        "clave": "6198844119",
+        "descripcion": "UNIDAD DE LED 7”",
+        "precio": "160550"
+    },
+    {
+        "imagen": "/imagenes/imagen560.jpg",
+        "codigo": "FIC8006300",
+        "clave": "6198844123",
+        "descripcion": "UNIDAD LED 7”",
+        "precio": "143650"
+    },
+    {
+        "imagen": "/imagenes/imagen561.jpg",
+        "codigo": "FIC8006700",
+        "clave": "6198844127",
+        "descripcion": "UNIDAD DE LED 7”",
+        "precio": "167310"
+    },
+    {
+        "imagen": "/imagenes/imagen562.jpg",
+        "codigo": "FIC8007300",
+        "clave": "6198844133",
+        "descripcion": "UNIDAD DE LED 7”",
+        "precio": "155480"
+    },
+    {
+        "imagen": "/imagenes/imagen563.jpg",
+        "codigo": "FIC8008700",
+        "clave": "6198844147",
+        "descripcion": "UNIDAD DE LED 5.75”",
+        "precio": "119990"
+    },
+    {
+        "imagen": "/imagenes/imagen564.jpg",
+        "codigo": "FIC8009200",
+        "clave": "6198844152",
+        "descripcion": "UNIDAD DE LED 5”",
+        "precio": "133510"
+    },
+    {
+        "imagen": "/imagenes/imagen565.jpg",
+        "codigo": "FIC8009300",
+        "clave": "6198844153",
+        "descripcion": "UNIDAD DE LED 5”",
+        "precio": "141960"
+    },
+    {
+        "imagen": "/imagenes/imagen566.jpg",
+        "codigo": "FIC8009400",
+        "clave": "6198844154",
+        "descripcion": "UNIDAD DE LED 7”",
+        "precio": "155480"
+    },
+    {
+        "imagen": "/imagenes/imagen567.jpg",
+        "codigo": "FIC8009900",
+        "clave": "6198844159",
+        "descripcion": "UNIDAD DE LED 5”",
+        "precio": "133510"
+    },
+    {
+        "imagen": "/imagenes/imagen568.jpg",
+        "codigo": "FIC8010000",
+        "clave": "6198844160",
+        "descripcion": "UNIDAD 5” 3 LED C/LUZ DE DIA/DIRECCIONAL",
+        "precio": "138580"
+    },
+    {
+        "imagen": "/imagenes/imagen569.jpg",
+        "codigo": "FIC8010100",
+        "clave": "6198844161",
+        "descripcion": "UNIDAD 5” 3 LED C/LUZ DE DIA/DIRECCIONAL",
+        "precio": "138580"
+    },
+    {
+        "imagen": "/imagenes/imagen570.jpg",
+        "codigo": "FIC8010200",
+        "clave": "6198844162",
+        "descripcion": "UNIDAD DE LED 7¨ IZQ",
+        "precio": "169000"
+    },
+    {
+        "imagen": "/imagenes/imagen571.jpg",
+        "codigo": "FIC8010300",
+        "clave": "6198844163",
+        "descripcion": "UNIDAD DE LED 7¨ DER",
+        "precio": "169000"
+    },
+    {
+        "imagen": "/imagenes/imagen572.jpg",
+        "codigo": "FIC8010800",
+        "clave": "6198844168",
+        "descripcion": "UNIDAD DE LED 7”",
+        "precio": "162240"
+    },
+    {
+        "imagen": "/imagenes/imagen573.jpg",
+        "codigo": "FIC8011200",
+        "clave": "6198844172",
+        "descripcion": "UNIDAD DE LED 7¨",
+        "precio": "136890"
+    },
+    {
+        "imagen": "/imagenes/imagen574.jpg",
+        "codigo": "FIC8011300",
+        "clave": "6198844173",
+        "descripcion": "UNIDAD DE LED 5¨",
+        "precio": "116610"
+    },
+    {
+        "imagen": "/imagenes/imagen575.jpg",
+        "codigo": "FIC8011400",
+        "clave": "6198844174",
+        "descripcion": "UNIDAD DE LED 5¨",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen576.jpg",
+        "codigo": "FIC8012000",
+        "clave": "6198844180",
+        "descripcion": "UNIDAD DE LED 5¨",
+        "precio": "131820"
+    },
+    {
+        "imagen": "/imagenes/imagen577.jpg",
+        "codigo": "FIC8012100",
+        "clave": "6198844181",
+        "descripcion": "UNIDAD DE LED 7¨",
+        "precio": "172380"
+    },
+    {
+        "imagen": "/imagenes/imagen578.jpg",
+        "codigo": "FIC8012300",
+        "clave": "6198844183",
+        "descripcion": "UNIDAD DE LED 7¨ IZQ",
+        "precio": "182520"
+    },
+    {
+        "imagen": "/imagenes/imagen579.jpg",
+        "codigo": "FIC8012400",
+        "clave": "6198844184",
+        "descripcion": "UNIDAD DE LED 7¨ DER",
+        "precio": "182520"
+    },
+    {
+        "imagen": "/imagenes/imagen580.jpg",
+        "codigo": "FIC8012700",
+        "clave": "6198844187",
+        "descripcion": "UNIDAD DE LED 5¨",
+        "precio": "118300"
+    },
+    {
+        "imagen": "/imagenes/imagen581.jpg",
+        "codigo": "FIC8012800",
+        "clave": "6198844188",
+        "descripcion": "UNIDAD DE LED 5¨¨",
+        "precio": "135200"
+    },
+    {
+        "imagen": "/imagenes/imagen582.jpg",
+        "codigo": "FIC8013300",
+        "clave": "6198844193",
+        "descripcion": "UNIDAD DE LED 7¨",
+        "precio": "167310"
+    },
+    {
+        "imagen": "/imagenes/imagen583.jpg",
+        "codigo": "FNC8000900",
+        "clave": "6199992823",
+        "descripcion": "EXPLORADORA 3” 4 HYPER LED C/ARILLO AZUL 12W",
+        "precio": "40560"
+    },
+    {
+        "imagen": "/imagenes/imagen584.jpg",
+        "codigo": "FNC8001000",
+        "clave": "6199992824",
+        "descripcion": "EXPLORADORA 3” 4 HYPER LED C/ARILLO ROJO 12W",
+        "precio": "40560"
+    },
+    {
+        "imagen": "/imagenes/imagen585.jpg",
+        "codigo": "FNC8004300",
+        "clave": "6299992854",
+        "descripcion": "PAR FARO 6 LED RECTANGULAR 18w 6”X1.5”",
+        "precio": "42250"
+    },
+    {
+        "imagen": "/imagenes/imagen586.jpg",
+        "codigo": "FNC8005200",
+        "clave": "6299992872",
+        "descripcion": "EXPLORADORA LED",
+        "precio": "52390"
+    },
+    {
+        "imagen": "/imagenes/imagen587.jpg",
+        "codigo": "FNC8005700",
+        "clave": "6199992857",
+        "descripcion": "EXPLORADORA LED BLANCO",
+        "precio": "89570"
+    },
+    {
+        "imagen": "/imagenes/imagen588.jpg",
+        "codigo": "FNC8005800",
+        "clave": "6199992858",
+        "descripcion": "EXPLORADORA LED NIEBLA BLANCO/ AMBAR",
+        "precio": "98020"
+    },
+    {
+        "imagen": "/imagenes/imagen589.jpg",
+        "codigo": "FNC8100100",
+        "clave": "6399992801",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen590.jpg",
+        "codigo": "FNC8100300",
+        "clave": "6399992803",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen591.jpg",
+        "codigo": "FNC8100400",
+        "clave": "6399992804",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "52390"
+    },
+    {
+        "imagen": "/imagenes/imagen592.jpg",
+        "codigo": "FNC8100500",
+        "clave": "6399992805",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen593.jpg",
+        "codigo": "FNC8100900",
+        "clave": "6399992809",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "70980"
+    },
+    {
+        "imagen": "/imagenes/imagen594.jpg",
+        "codigo": "FNC8101100",
+        "clave": "6399992811",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "67600"
+    },
+    {
+        "imagen": "/imagenes/imagen595.jpg",
+        "codigo": "FNC8101200",
+        "clave": "6399992812",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "67600"
+    },
+    {
+        "imagen": "/imagenes/imagen596.jpg",
+        "codigo": "FNC8101300",
+        "clave": "6399992813",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "72670"
+    },
+    {
+        "imagen": "/imagenes/imagen597.jpg",
+        "codigo": "FNC8101400",
+        "clave": "6399992814",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "67600"
+    },
+    {
+        "imagen": "/imagenes/imagen598.jpg",
+        "codigo": "FNC8101500",
+        "clave": "6399992815",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "135200"
+    },
+    {
+        "imagen": "/imagenes/imagen599.jpg",
+        "codigo": "FNC8101600",
+        "clave": "6399992816",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "135200"
+    },
+    {
+        "imagen": "/imagenes/imagen600.jpg",
+        "codigo": "FNC8101700",
+        "clave": "6399992817",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "135200"
+    },
+    {
+        "imagen": "/imagenes/imagen601.jpg",
+        "codigo": "FNC8101800",
+        "clave": "6399992818",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "135200"
+    },
+    {
+        "imagen": "/imagenes/imagen602.jpg",
+        "codigo": "FNC8101900",
+        "clave": "6399992819",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "72670"
+    },
+    {
+        "imagen": "/imagenes/imagen603.jpg",
+        "codigo": "FNC8102000",
+        "clave": "6399992820",
+        "descripcion": "EXPLORADORA LED 12/24 V",
+        "precio": "67600"
+    },
+    {
+        "imagen": "/imagenes/imagen604.jpg",
+        "codigo": "HCA5155001",
+        "clave": "1598594785",
+        "descripcion": "PARRILLA DE TECHO\n127x96 cm",
+        "precio": "767260"
+    },
+    {
+        "imagen": "/imagenes/imagen605.jpg",
+        "codigo": "HCA5155501",
+        "clave": "1598594786",
+        "descripcion": "PARRILLA DE TECHO\n140x100 cm",
+        "precio": "816270"
+    },
+    {
+        "imagen": "/imagenes/imagen606.jpg",
+        "codigo": "HCA5185002",
+        "clave": "1598594767",
+        "descripcion": "PARRILLA DE TECHO\n127x96 cm",
+        "precio": "753740"
+    },
+    {
+        "imagen": "/imagenes/imagen607.jpg",
+        "codigo": "HCA5185502",
+        "clave": "1598594768",
+        "descripcion": "PARRILLA DE TECHO\n140x100 cm",
+        "precio": "826410"
+    },
+    {
+        "imagen": "/imagenes/imagen608.jpg",
+        "codigo": "HCB8036100",
+        "clave": "1598594821",
+        "descripcion": "BARRA DE TECHO 155\ncm",
+        "precio": "91260"
+    },
+    {
+        "imagen": "/imagenes/imagen609.jpg",
+        "codigo": "HCC0164102",
+        "clave": "1598594823",
+        "descripcion": "BARRA DE TECHO 105\ncm",
+        "precio": "273780"
+    },
+    {
+        "imagen": "/imagenes/imagen610.jpg",
+        "codigo": "HCC0174202",
+        "clave": "1598594826",
+        "descripcion": "BARRA DE TECHO 108\ncm",
+        "precio": "211250"
+    },
+    {
+        "imagen": "/imagenes/imagen611.jpg",
+        "codigo": "HCC6204400",
+        "clave": "1198594759",
+        "descripcion": "BARRA DE TECHO 138\ncm",
+        "precio": "300820"
+    },
+    {
+        "imagen": "/imagenes/imagen612.jpg",
+        "codigo": "IAC0010100",
+        "clave": "1198103243",
+        "descripcion": "TAPETE PLASTICO NEGRO (4 PZAS.)",
+        "precio": "50700"
+    },
+    {
+        "imagen": "/imagenes/imagen613.jpg",
+        "codigo": "IAC6626100",
+        "clave": "1198103259",
+        "descripcion": "TAPETE NEGRO (4 PZAS) TOUCH",
+        "precio": "50700"
+    },
+    {
+        "imagen": "/imagenes/imagen614.jpg",
+        "codigo": "IAC6628300",
+        "clave": "1198103233",
+        "descripcion": "TAPETE METALIZADO AZUL/CARBON",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen615.jpg",
+        "codigo": "IAC6628400",
+        "clave": "1198103238",
+        "descripcion": "TAPETE METALIZADO ROJO/CARBON",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen616.jpg",
+        "codigo": "IAC6630900",
+        "clave": "1198103395",
+        "descripcion": "TAPETE CHAROLA NEGRO C/FIBRA VERDE 3PZAS",
+        "precio": "79430"
+    },
+    {
+        "imagen": "/imagenes/imagen617.jpg",
+        "codigo": "IAC6631500",
+        "clave": "1198103230",
+        "descripcion": "TAPETE CHAROLA NEGRO/FIBRA 4PZAS",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen618.jpg",
+        "codigo": "IAC6635500",
+        "clave": "1198103315",
+        "descripcion": "TAPETE CHAROLA NEGRO C/FIBRA AZUL 4PZAS",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen619.jpg",
+        "codigo": "IAC6635600",
+        "clave": "1198103316",
+        "descripcion": "TAPETE CHAROLA NEGRO C/FIBRA ROJO 4PZAS",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen620.jpg",
+        "codigo": "IAC6635800",
+        "clave": "1198103318",
+        "descripcion": "TAPETE CHAROLA NEGRO C/FIBRA BCO 4PZAS",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen621.jpg",
+        "codigo": "IAC6635900",
+        "clave": "1198103319",
+        "descripcion": "TAPETE TACONERA C/ FIBRA MORADO 4PZA",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen622.jpg",
+        "codigo": "IAC6636000",
+        "clave": "1198103320",
+        "descripcion": "TAPETE TACONERA C/ FIBRA VERDE 4PZAS",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen623.jpg",
+        "codigo": "IAC7000100",
+        "clave": "1198103350",
+        "descripcion": "TAPETE METALIZADO (PRISMA) CARBON",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen624.jpg",
+        "codigo": "IAC7000200",
+        "clave": "1198103351",
+        "descripcion": "TAPETE METALIZADO (PRISMA) ROJO",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen625.jpg",
+        "codigo": "IAC7000300",
+        "clave": "1198103352",
+        "descripcion": "TAPETE METALIZADO (PRISMA) AZUL",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen626.jpg",
+        "codigo": "IAC7000400",
+        "clave": "1198103353",
+        "descripcion": "TAPETE METALIZADO (PRISMA) ROJO/ CARBON",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen627.jpg",
+        "codigo": "IAC7000500",
+        "clave": "1198103354",
+        "descripcion": "TAPETE METALIZADO (PRISMA) AZUL CARBON",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen628.jpg",
+        "codigo": "IAC7000600",
+        "clave": "1198103355",
+        "descripcion": "TAPETE METALIZADO (PRISMA) NEGRO CHAROL",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen629.jpg",
+        "codigo": "IAC7000700",
+        "clave": "1198103356",
+        "descripcion": "TAPETE METALIZADO (PRISMA) CROMADO",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen630.jpg",
+        "codigo": "IAC7000800",
+        "clave": "1198103357",
+        "descripcion": "TAPETE METALIZADO (PRISMA) VERDE",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen631.jpg",
+        "codigo": "IAC7002000",
+        "clave": "1198103369",
+        "descripcion": "TAPETE CAUCHO (KINKY) CARBON",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen632.jpg",
+        "codigo": "IAC7002100",
+        "clave": "1198103370",
+        "descripcion": "TAPETE CAUCHO (KINKY) AZUL",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen633.jpg",
+        "codigo": "IAC7002200",
+        "clave": "1198103371",
+        "descripcion": "TAPETE CAUCHO (KINKY) ROJO",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen634.jpg",
+        "codigo": "IAC7002300",
+        "clave": "1198103372",
+        "descripcion": "TAPETE CAUCHO (KINKY) VERDE",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen635.jpg",
+        "codigo": "IAC7002400",
+        "clave": "1198103373",
+        "descripcion": "TAPETE CAUCHO (KINKY) PLATA",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen636.jpg",
+        "codigo": "IAC7002500",
+        "clave": "1198103374",
+        "descripcion": "TAPETE CAUCHO (KINKY) ROSA",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen637.jpg",
+        "codigo": "IAC7002600",
+        "clave": "1198103375",
+        "descripcion": "TAPETE CAUCHO (KINKY) CROMADO",
+        "precio": "69290"
+    },
+    {
+        "imagen": "/imagenes/imagen638.jpg",
+        "codigo": "IEC6000100",
+        "clave": "1198053001",
+        "descripcion": "FUNDA VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen639.jpg",
+        "codigo": "IEC6000200",
+        "clave": "1198053002",
+        "descripcion": "FUNDA VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen640.jpg",
+        "codigo": "IEC6000300",
+        "clave": "1198053003",
+        "descripcion": "FUNDA VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen641.jpg",
+        "codigo": "IEC6000400",
+        "clave": "1198053004",
+        "descripcion": "FUNDA VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen642.jpg",
+        "codigo": "IEC6000500",
+        "clave": "1198053005",
+        "descripcion": "FUNDA VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen643.jpg",
+        "codigo": "IEC6000600",
+        "clave": "1198053006",
+        "descripcion": "FUNDA VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen644.jpg",
+        "codigo": "IEC6001100",
+        "clave": "1198053011",
+        "descripcion": "FUNDA VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen645.jpg",
+        "codigo": "IEC6001700",
+        "clave": "1198053017",
+        "descripcion": "FUNDA VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen646.jpg",
+        "codigo": "IEC7057400",
+        "clave": "1198012619",
+        "descripcion": "FUNDA DE VOLANTE NEGRA C/ RFLEJANTE AZUL",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen647.jpg",
+        "codigo": "IEC7058600",
+        "clave": "1198012623",
+        "descripcion": "FUNDA DE VOLANTE NEGRA C/ RFLEJANTE AZUL",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen648.jpg",
+        "codigo": "IEC7058700",
+        "clave": "1198022624",
+        "descripcion": "FUNDA DE VOLANTE NEGRA C/ RFLEJANTE PLAT",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen649.jpg",
+        "codigo": "IEC7800600",
+        "clave": "1198052706",
+        "descripcion": "FUNDA DE VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen650.jpg",
+        "codigo": "IEC7801200",
+        "clave": "1198052712",
+        "descripcion": "FUNDA DE VOLANTE",
+        "precio": "13520"
+    },
+    {
+        "imagen": "/imagenes/imagen651.jpg",
+        "codigo": "IEC8000100",
+        "clave": "1198052655",
+        "descripcion": "FUNDA P/VOLANTE PREMIUM NEGRO/ MADERA 38c",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen652.jpg",
+        "codigo": "IEC8000200",
+        "clave": "1198052656",
+        "descripcion": "FUNDA VOLANTE PREMIUM NEGRO/ COSTURA ROJA",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen653.jpg",
+        "codigo": "IEC8000300",
+        "clave": "1198052657",
+        "descripcion": "FUNDA VOLANTE PREMIUM NEGRO\n38cm",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen654.jpg",
+        "codigo": "IEC8000400",
+        "clave": "1198052658",
+        "descripcion": "FUNDA VOLANTE PREMIUM NEGRO\n38cm",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen655.jpg",
+        "codigo": "IEC8000600",
+        "clave": "1198052660",
+        "descripcion": "FUNDA VOLANTE PREMIUM NEGRO/ COSTURA ROJA",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen656.jpg",
+        "codigo": "IEC8000700",
+        "clave": "1198052661",
+        "descripcion": "FUNDA VOLANTE PREMIUM NEGRO/ COSTURA ROJA",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen657.jpg",
+        "codigo": "IEC8000800",
+        "clave": "1198052662",
+        "descripcion": "FUNDA VOLANTE PREMIUM NEGRO\n38cm",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen658.jpg",
+        "codigo": "IEC8000900",
+        "clave": "1198052663",
+        "descripcion": "FUNDA VOLANTE PREMIUM NEGRO/ COSTURA ROJA",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen659.jpg",
+        "codigo": "IEC8001000",
+        "clave": "1198052664",
+        "descripcion": "FUNDA DE VOLANTE CON CAJA",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen660.jpg",
+        "codigo": "IEC8001100",
+        "clave": "1198052665",
+        "descripcion": "FUNDA VOLANTE PREMIUM NEGRO/ COSTURA ROJA",
+        "precio": "49010"
+    },
+    {
+        "imagen": "/imagenes/imagen661.jpg",
+        "codigo": "IEC9900200",
+        "clave": "1198052751",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen662.jpg",
+        "codigo": "IEC9900400",
+        "clave": "1198052753",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen663.jpg",
+        "codigo": "IEC9900800",
+        "clave": "1198052757",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen664.jpg",
+        "codigo": "IEC9900900",
+        "clave": "1198052758",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen665.jpg",
+        "codigo": "IEC9901000",
+        "clave": "1198052759",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen666.jpg",
+        "codigo": "IEC9901200",
+        "clave": "1198052761",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen667.jpg",
+        "codigo": "IEC9901300",
+        "clave": "1198052762",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen668.jpg",
+        "codigo": "IEC9901400",
+        "clave": "1198052763",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen669.jpg",
+        "codigo": "IEC9901500",
+        "clave": "1198052764",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen670.jpg",
+        "codigo": "IEC9901600",
+        "clave": "1198052765",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen671.jpg",
+        "codigo": "IEC9903200",
+        "clave": "1198052781",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen672.jpg",
+        "codigo": "IEC9903500",
+        "clave": "1198052784",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen673.jpg",
+        "codigo": "IEC9903600",
+        "clave": "1198052785",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen674.jpg",
+        "codigo": "IEC9903800",
+        "clave": "1198052787",
+        "descripcion": "FUNDA DE VOLANTE (MULA)",
+        "precio": "28730"
+    },
+    {
+        "imagen": "/imagenes/imagen675.jpg",
+        "codigo": "ILC7050400",
+        "clave": "1197016627",
+        "descripcion": "RESPALDO PARA ASIENTO AZUL",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen676.jpg",
+        "codigo": "ILC7050500",
+        "clave": "1197016628",
+        "descripcion": "RESPALDO PARA ASIENTO BEIGE",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen677.jpg",
+        "codigo": "ILC7050600",
+        "clave": "1197016629",
+        "descripcion": "RESPALDO PARA ASIENTO VINO",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen678.jpg",
+        "codigo": "IMC3200100",
+        "clave": "1191912951",
+        "descripcion": "PIJAMA PARA AUTO S 406 X 165 X120",
+        "precio": "94640"
+    },
+    {
+        "imagen": "/imagenes/imagen678.jpg",
+        "codigo": "IMC3200400",
+        "clave": "1191912954",
+        "descripcion": "PIJAMA PARA AUTO XL 533 X 178 X 120",
+        "precio": "106470"
+    },
+    {
+        "imagen": "/imagenes/imagen678.jpg",
+        "codigo": "IMC3200500",
+        "clave": "1191912955",
+        "descripcion": "PIJAMA PARA AUTO XXL 571 X 203 X 120",
+        "precio": "113230"
+    },
+    {
+        "imagen": "/imagenes/imagen679.jpg",
+        "codigo": "IMC7000100",
+        "clave": "1191912961",
+        "descripcion": "PIJAMA PARA MOTO S 203 X 89 X 122",
+        "precio": "40560"
+    },
+    {
+        "imagen": "/imagenes/imagen679.jpg",
+        "codigo": "IMC7000200",
+        "clave": "1191912962",
+        "descripcion": "PIJAMA PARA MOTO M 232 X 100 X 122",
+        "precio": "42250"
+    },
+    {
+        "imagen": "/imagenes/imagen679.jpg",
+        "codigo": "IMC7000300",
+        "clave": "1191912963",
+        "descripcion": "PIJAMA PARA MOTO  L 246 X 105 X 127",
+        "precio": "43940"
+    },
+    {
+        "imagen": "/imagenes/imagen679.jpg",
+        "codigo": "IMC7000400",
+        "clave": "1191912964",
+        "descripcion": "PIJAMA PARA MOTO XL 277 X 104 X 127",
+        "precio": "45630"
+    },
+    {
+        "imagen": "/imagenes/imagen680.jpg",
+        "codigo": "JAC7820000",
+        "clave": "8198423056",
+        "descripcion": "FILTRO DE AIRE ROJO",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen681.jpg",
+        "codigo": "JAC7820100",
+        "clave": "8198423057",
+        "descripcion": "FILTRO DE AIRE PLATA",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen682.jpg",
+        "codigo": "JAC7820200",
+        "clave": "8198423058",
+        "descripcion": "FILTRO DE AIRE CARBON",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen683.jpg",
+        "codigo": "JAC7820300",
+        "clave": "8198423059",
+        "descripcion": "FILTRO AIRE ROJO",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen684.jpg",
+        "codigo": "JAC7820400",
+        "clave": "8198423060",
+        "descripcion": "FILTRO AIRE PLATA",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen685.jpg",
+        "codigo": "JAC7820500",
+        "clave": "8198423061",
+        "descripcion": "FILTRO AIRE AZUL",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen686.jpg",
+        "codigo": "JAC7820600",
+        "clave": "8198423062",
+        "descripcion": "FILTRO AIRE ROJO/ CROMO",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen687.jpg",
+        "codigo": "JAC7820700",
+        "clave": "8198423063",
+        "descripcion": "FILTRO DE AIRE ROJO/ FIBRA",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen688.jpg",
+        "codigo": "JAC7822200",
+        "clave": "8198423078",
+        "descripcion": "FILTRO DE AIRE GRIS",
+        "precio": "8788"
+    },
+    {
+        "imagen": "/imagenes/imagen689.jpg",
+        "codigo": "JAC7822300",
+        "clave": "8198423079",
+        "descripcion": "FILTRO DE AIRE CARBON",
+        "precio": "8788"
+    },
+    {
+        "imagen": "/imagenes/imagen690.jpg",
+        "codigo": "JAC7822500",
+        "clave": "8198423081",
+        "descripcion": "FILTRO RESPIRADOR AZUL",
+        "precio": "8788"
+    },
+    {
+        "imagen": "/imagenes/imagen691.jpg",
+        "codigo": "JAC7822600",
+        "clave": "8198423082",
+        "descripcion": "FILTRO RESPIRADOR PLATA",
+        "precio": "8788"
+    },
+    {
+        "imagen": "/imagenes/imagen692.jpg",
+        "codigo": "JAC7822800",
+        "clave": "8198423084",
+        "descripcion": "FILTRO DE AIRE ROJO",
+        "precio": "16055"
+    },
+    {
+        "imagen": "/imagenes/imagen693.jpg",
+        "codigo": "JAC7822900",
+        "clave": "8198423085",
+        "descripcion": "FILTRO DE AIRE TIPO COHETE CROMADO",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen694.jpg",
+        "codigo": "JAC7823000",
+        "clave": "8198423086",
+        "descripcion": "FILTRO AIRE COHETE CROMADO/ROJO",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen695.jpg",
+        "codigo": "JAC7823100",
+        "clave": "8198423087",
+        "descripcion": "FILTRO DE AIRE CROMADO/AZUL",
+        "precio": "59150"
+    },
+    {
+        "imagen": "/imagenes/imagen696.jpg",
+        "codigo": "JAC7823400",
+        "clave": "8198423090",
+        "descripcion": "FILTRO DE AIRE ABRAZADERAS COPLE AMARILL",
+        "precio": "65910"
+    },
+    {
+        "imagen": "/imagenes/imagen697.jpg",
+        "codigo": "JAC7823800",
+        "clave": "8198423094",
+        "descripcion": "FILTRO DE AIRE ROJO",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen698.jpg",
+        "codigo": "JAC7823900",
+        "clave": "8198423095",
+        "descripcion": "FILTRO DE AIRE AZUL",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen699.jpg",
+        "codigo": "JAC7824000",
+        "clave": "8198423096",
+        "descripcion": "FILTRO DE AIRE PLATA",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen700.jpg",
+        "codigo": "JAC7825000",
+        "clave": "8198423100",
+        "descripcion": "FILTRO DE AIRE ABRAZADERAS COPLE CROMADO",
+        "precio": "65910"
+    },
+    {
+        "imagen": "/imagenes/imagen701.jpg",
+        "codigo": "JAC7825100",
+        "clave": "8198423101",
+        "descripcion": "FILTRO DE AIRE ABRAZADERAS COPLE FIBRA",
+        "precio": "65910"
+    },
+    {
+        "imagen": "/imagenes/imagen702.jpg",
+        "codigo": "LAC0003000",
+        "clave": "1198865920",
+        "descripcion": "PORTA PLACA CARBON",
+        "precio": "21970"
+    },
+    {
+        "imagen": "/imagenes/imagen703.jpg",
+        "codigo": "LAC0003100",
+        "clave": "1198865921",
+        "descripcion": "PORTA PLACA ROJO",
+        "precio": "21970"
+    },
+    {
+        "imagen": "/imagenes/imagen704.jpg",
+        "codigo": "LAC0003200",
+        "clave": "1198865922",
+        "descripcion": "PORTA PLACA AZUL",
+        "precio": "21970"
+    },
+    {
+        "imagen": "/imagenes/imagen705.jpg",
+        "codigo": "LAC0003300",
+        "clave": "1198865923",
+        "descripcion": "PORTA PLACA PLATA",
+        "precio": "21970"
+    },
+    {
+        "imagen": "/imagenes/imagen706.jpg",
+        "codigo": "MBC6701100",
+        "clave": "1199992306",
+        "descripcion": "ESPEJO PANORAMICO GRANDE 17”",
+        "precio": "17745"
+    },
+    {
+        "imagen": "/imagenes/imagen707.jpg",
+        "codigo": "MBC6701200",
+        "clave": "1199992305",
+        "descripcion": "ESPEJO PANORAMICO CHICO 13”",
+        "precio": "15210"
+    },
+    {
+        "imagen": "/imagenes/imagen708.jpg",
+        "codigo": "MBC6701500",
+        "clave": "1199992304",
+        "descripcion": "ESPEJO INTERIOR ADHESIVO 8”(CHF)",
+        "precio": "27885"
+    },
+    {
+        "imagen": "/imagenes/imagen709.jpg",
+        "codigo": "MBT6704300",
+        "clave": "1299992304",
+        "descripcion": "ESPEJO PANORAMICO BK",
+        "precio": "37180"
+    },
+    {
+        "imagen": "/imagenes/imagen710.jpg",
+        "codigo": "OAC6014200",
+        "clave": "4198705401",
+        "descripcion": "SWITCH DE PULSAR (CH)",
+        "precio": "1521"
+    },
+    {
+        "imagen": "/imagenes/imagen711.jpg",
+        "codigo": "OAC6016200",
+        "clave": "4198705442",
+        "descripcion": "SWITCH MARCHA (CH)",
+        "precio": "4563"
+    },
+    {
+        "imagen": "/imagenes/imagen712.jpg",
+        "codigo": "OAC6016400",
+        "clave": "4198705444",
+        "descripcion": "SWITCH MARCHA (CH)",
+        "precio": "6760"
+    },
+    {
+        "imagen": "/imagenes/imagen713.jpg",
+        "codigo": "OAC7000300",
+        "clave": "4198705478",
+        "descripcion": "SWITCH P/MOTO PULSAR C/LUZ ON/OFF",
+        "precio": "12675"
+    },
+    {
+        "imagen": "/imagenes/imagen714.jpg",
+        "codigo": "OBC5142300",
+        "clave": "4198996105",
+        "descripcion": "JGO TERMINAL BATERIA 1 PERNO",
+        "precio": "16900"
+    },
+    {
+        "imagen": "/imagenes/imagen715.jpg",
+        "codigo": "OFC8001200",
+        "clave": "4198672522",
+        "descripcion": "SOQUET T20-1 7440",
+        "precio": "2704"
+    },
+    {
+        "imagen": "/imagenes/imagen716.jpg",
+        "codigo": "OFC8001700",
+        "clave": "4198672527",
+        "descripcion": "SOQUET 1157 2 POLOS",
+        "precio": "1436.5"
+    },
+    {
+        "imagen": "/imagenes/imagen717.jpg",
+        "codigo": "OJC7570400",
+        "clave": "1298715410",
+        "descripcion": "PROTECTOR DE PUERTA AZUL 45MT (SILVATRIM)",
+        "precio": "52390"
+    },
+    {
+        "imagen": "/imagenes/imagen718.jpg",
+        "codigo": "OJC7570500",
+        "clave": "1298715411",
+        "descripcion": "PROTECTOR DE PUERTA ROJO 45MT (SILVATRIM)",
+        "precio": "52390"
+    },
+    {
+        "imagen": "/imagenes/imagen719.jpg",
+        "codigo": "OJC7570600",
+        "clave": "1298715412",
+        "descripcion": "PROTECTOR DE PUERTA ORO 45MT (SILVATRIM)",
+        "precio": "52390"
+    },
+    {
+        "imagen": "/imagenes/imagen720.jpg",
+        "codigo": "PAC6610000",
+        "clave": "1198130921",
+        "descripcion": "JGO PLUMA  DE LIMPIADOR 16”",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen721.jpg",
+        "codigo": "PAC6610100",
+        "clave": "1198130922",
+        "descripcion": "JGO PLUMA  DE LIMPIADOR 18”",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen722.jpg",
+        "codigo": "PAC6610200",
+        "clave": "1198130923",
+        "descripcion": "JGO PLUMA DE LIMPIADOR 19/21”",
+        "precio": "11154"
+    },
+    {
+        "imagen": "/imagenes/imagen723.jpg",
+        "codigo": "PAC6610300",
+        "clave": "1198130924",
+        "descripcion": "JGO PLUMA DE LIMPIADOR 20”",
+        "precio": "11154"
+    },
+    {
+        "imagen": "/imagenes/imagen724.jpg",
+        "codigo": "PAC6610400",
+        "clave": "1198130925",
+        "descripcion": "JGO PLUMA DE LIMPIADOR 11”",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen725.jpg",
+        "codigo": "PAC6610500",
+        "clave": "1198130926",
+        "descripcion": "JGO PLUMA DE LIMPIADOR 22”",
+        "precio": "11323"
+    },
+    {
+        "imagen": "/imagenes/imagen726.jpg",
+        "codigo": "PAC6610600",
+        "clave": "1198130927",
+        "descripcion": "JGO PLUMA DE LIMPIADOR 24”",
+        "precio": "11492"
+    },
+    {
+        "imagen": "/imagenes/imagen727.jpg",
+        "codigo": "PAC6610800",
+        "clave": "1198130930",
+        "descripcion": "PLUMA LIMPIADOR TIPO AERODINAMICA 18”",
+        "precio": "8788"
+    },
+    {
+        "imagen": "/imagenes/imagen728.jpg",
+        "codigo": "PAC6610900",
+        "clave": "1198130931",
+        "descripcion": "PLUMA LIMPIADOR TIPO AERODINAMICA 19”",
+        "precio": "9126"
+    },
+    {
+        "imagen": "/imagenes/imagen729.jpg",
+        "codigo": "PAC6611000",
+        "clave": "1198130932",
+        "descripcion": "PLUMA LIMPIADOR TIPO AERODINAMICA 21”",
+        "precio": "9464"
+    },
+    {
+        "imagen": "/imagenes/imagen730.jpg",
+        "codigo": "PAC6611100",
+        "clave": "1198130953",
+        "descripcion": "JGO PLUMA LIMPIADOR 14”",
+        "precio": "10140"
+    },
+    {
+        "imagen": "/imagenes/imagen731.jpg",
+        "codigo": "PAC6611200",
+        "clave": "1198130954",
+        "descripcion": "PLUMA LIMPIADOR TIPO BANANA 14”",
+        "precio": "10816"
+    },
+    {
+        "imagen": "/imagenes/imagen732.jpg",
+        "codigo": "PAC6620000",
+        "clave": "1198130929",
+        "descripcion": "PLUMA LIMPIADOR 18” PLASTICO",
+        "precio": "7098"
+    },
+    {
+        "imagen": "/imagenes/imagen733.jpg",
+        "codigo": "PAC6620200",
+        "clave": "1198130934",
+        "descripcion": "JGO PLUMILLA DOBLE 18” CROMADO",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen734.jpg",
+        "codigo": "PAC6620300",
+        "clave": "1198130945",
+        "descripcion": "JGO PLUMILLA DOBLE 18” AZUL METALIZADO",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen735.jpg",
+        "codigo": "PAC6620400",
+        "clave": "1198130946",
+        "descripcion": "JGO PLUMILLA DOBLE 18” ROJO METALIZADO",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen736.jpg",
+        "codigo": "PAC6620500",
+        "clave": "1198130947",
+        "descripcion": "PLUMA DE LIMPIADOR TIPO BANANA 18 JGO",
+        "precio": "21970"
+    },
+    {
+        "imagen": "/imagenes/imagen737.jpg",
+        "codigo": "PAC6620600",
+        "clave": "1198130948",
+        "descripcion": "PLUMA DE LIMPIADOR TIPO BANANA 19 JGO",
+        "precio": "21970"
+    },
+    {
+        "imagen": "/imagenes/imagen738.jpg",
+        "codigo": "PAC6620700",
+        "clave": "1198130949",
+        "descripcion": "PLUMA DE LIMPIADOR TIPO BANANA 21 JGO",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen739.jpg",
+        "codigo": "PAC6620800",
+        "clave": "1198130950",
+        "descripcion": "PLUMA DE LIMPIADOR TIPO BANANA 22 JGO",
+        "precio": "22815"
+    },
+    {
+        "imagen": "/imagenes/imagen740.jpg",
+        "codigo": "PAC6620900",
+        "clave": "1198130951",
+        "descripcion": "PLUMA DE LIMPIADOR TIPO BANANA 24 JGO",
+        "precio": "23660"
+    },
+    {
+        "imagen": "/imagenes/imagen741.jpg",
+        "codigo": "PAC6621000",
+        "clave": "1198130952",
+        "descripcion": "PLUMA DE LIMPIADOR TIPO BANANA 26 JGO",
+        "precio": "26195"
+    },
+    {
+        "imagen": "/imagenes/imagen742.jpg",
+        "codigo": "SAC2008800",
+        "clave": "6170633288",
+        "descripcion": "PAR DE UNIDAD DE KW",
+        "precio": "1453400"
+    },
+    {
+        "imagen": "/imagenes/imagen743.jpg",
+        "codigo": "SAC2009900",
+        "clave": "6170633299",
+        "descripcion": "PAR DE UNIDAD DE KW",
+        "precio": "1453400"
+    },
+    {
+        "imagen": "/imagenes/imagen744.jpg",
+        "codigo": "SOC8000100",
+        "clave": "1298685219",
+        "descripcion": "IMITACION QUEMACOCOS",
+        "precio": "101400"
+    },
+    {
+        "imagen": "/imagenes/imagen745.jpg",
+        "codigo": "STC6703900",
+        "clave": "1156552113",
+        "descripcion": "ESPEJO CONCAVO 6” (ACERO INOXIDABLE)",
+        "precio": "47320"
+    },
+    {
+        "imagen": "/imagenes/imagen746.jpg",
+        "codigo": "STC6704000",
+        "clave": "1156552114",
+        "descripcion": "ESPEJO CONCAVO 8” (ACERO INOXIDABLE)",
+        "precio": "55770"
+    },
+    {
+        "imagen": "/imagenes/imagen747.jpg",
+        "codigo": "STC6704400",
+        "clave": "1156552118",
+        "descripcion": "REPUESTO ESPEJO CAMION 16X7.5” (CROMADO)",
+        "precio": "87880"
+    },
+    {
+        "imagen": "/imagenes/imagen748.jpg",
+        "codigo": "STC6704900",
+        "clave": "1156552123",
+        "descripcion": "ESPEJO CONCAVO ROTULA CENTRAL 8”",
+        "precio": "55770"
+    },
+    {
+        "imagen": "/imagenes/imagen749.jpg",
+        "codigo": "STC6705200",
+        "clave": "1156552126",
+        "descripcion": "ESPEJO CONCAVO 7” ACERO INOX",
+        "precio": "50700"
+    },
+    {
+        "imagen": "/imagenes/imagen750.jpg",
+        "codigo": "STC6705300",
+        "clave": "1156552127",
+        "descripcion": "REPUESTO ESPEJO 16.5”X7,.5” CROMADO (M2)",
+        "precio": "219700"
+    },
+    {
+        "imagen": "/imagenes/imagen751.jpg",
+        "codigo": "STC6705400",
+        "clave": "1156552128",
+        "descripcion": "ESPEJO CONCAVO 8”X8” CROMADO (M2)",
+        "precio": "170690"
+    },
+    {
+        "imagen": "/imagenes/imagen752.jpg",
+        "codigo": "STC6705800",
+        "clave": "1156552132",
+        "descripcion": "ESPEJO P/COFRE UNIVERSAL",
+        "precio": "189280"
+    },
+    {
+        "imagen": "/imagenes/imagen753.jpg",
+        "codigo": "STC6706100",
+        "clave": "1156552135",
+        "descripcion": "REPUESTO ESPEJO COFRE INTER (PRO STAR)",
+        "precio": "138580"
+    },
+    {
+        "imagen": "/imagenes/imagen754.jpg",
+        "codigo": "STC6706200",
+        "clave": "1156552136",
+        "descripcion": "ESPEJO COFRE INTER (PRO STAR) DER",
+        "precio": "354900"
+    },
+    {
+        "imagen": "/imagenes/imagen755.jpg",
+        "codigo": "STC6706300",
+        "clave": "1156552137",
+        "descripcion": "ESPEJO COFRE INTER (PRO STAR) IZQ",
+        "precio": "354900"
+    },
+    {
+        "imagen": "/imagenes/imagen756.jpg",
+        "codigo": "TIC5463700",
+        "clave": "1193048808",
+        "descripcion": "CAPUCHON CROMADO C/CUERDA",
+        "precio": "6084"
+    },
+    {
+        "imagen": "/imagenes/imagen757.jpg",
+        "codigo": "TIC5464400",
+        "clave": "1193048815",
+        "descripcion": "COPA DELANTERA C/ CAPUCHON PICO",
+        "precio": "106470"
+    },
+    {
+        "imagen": "/imagenes/imagen758.jpg",
+        "codigo": "TIC5464500",
+        "clave": "1193048816",
+        "descripcion": "COPA TRASERA C/ CAPUCHON PICO",
+        "precio": "152100"
+    },
+    {
+        "imagen": "/imagenes/imagen759.jpg",
+        "codigo": "TIC5465000",
+        "clave": "1193048821",
+        "descripcion": "CAPUCHON CROMO",
+        "precio": "6084"
+    }
+]
