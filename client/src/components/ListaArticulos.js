@@ -53,6 +53,9 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => { // Recibe carrito co
 
   if (cargando) return <div className="cargando">Cargando catálogo...</div>;
   if (error) return <div className="error">{error}</div>;
+  if (!articulos || articulos.length === 0) {
+    return <div>No hay artículos disponibles</div>;
+  }
 
   return (
     <div className="contenedor-app">

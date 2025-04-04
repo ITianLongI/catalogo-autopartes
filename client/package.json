@@ -12,7 +12,9 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.30.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "eslint": "^8.57.0"
+    
   },
   "proxy": "http://localhost:5000",
   "scripts": {
@@ -41,6 +43,7 @@
   },
   "devDependencies": {
     "concurrently": "^9.1.2",
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "@babel/core": "^7.24.0"
   }
 }
