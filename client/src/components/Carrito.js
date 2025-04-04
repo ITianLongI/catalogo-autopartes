@@ -1,32 +1,33 @@
 import React from 'react';
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import './Carrito.css'; 
+import { useCarrito } from '../context/CarritoContext';
 
-const Carrito = ({ carrito, actualizarCantidad, eliminarDelCarrito }) => {  
-    const total = carrito.reduce((sum, item) => sum + (item.cantidad * item.precio), 0);
-    const [datosCliente, setDatosCliente] = useState({
-        nombre: '',
-        direccion: '',
-        telefono: '',
-        metodoPago: 'efectivo'
-      });
-      // Función para manejar cambios en los inputs
+const Carrito = () => {  
+  const { carrito, actualizarCantidad, eliminarDelCarrito, vaciarCarrito } = useCarrito();
+  const navigate = useNavigate();
+  const [datosCliente, setDatosCliente] = useState({
+    nombre: '',
+    direccion: '',
+    telefono: '',
+    metodoPago: 'efectivo'
+  });
+
+  const total = carrito.reduce((sum, item) => sum + (item.cantidad * item.precio), 0);
+
   const handleChange = (e) => {
     setDatosCliente({
       ...datosCliente,
       [e.target.name]: e.target.value
     });
   };
-  const enviarMensajeTelegram = async (mensaje) => {
-    const TOKEN = '7301391667:AAHEBx9dN_XFTZQ28AOz9OC23z0gg5ateug';
-    const CHAT_ID = '1727115768'; // Obtener de @userinfobot en Telegram
-    const URL_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
+  const enviarMensajeTelegram = async (mensaje) => {
     try {
-      await axios.post(URL_API, {
-        chat_id: CHAT_ID,
+      await axios.post(`https://api.telegram.org/bot${process.env.REACT_APP_TELEGRAM_BOT_TOKEN}/sendMessage`, {
+        chat_id: process.env.REACT_APP_TELEGRAM_CHAT_ID,
         text: mensaje,
         parse_mode: 'HTML'
       });
@@ -35,11 +36,9 @@ const Carrito = ({ carrito, actualizarCantidad, eliminarDelCarrito }) => {
       throw error;
     }
   };
-  // Función para manejar el envío del formulario
+
   const handleSubmit = async (e) => {
     e.preventDefault();
-    
-    const total = carrito.reduce((sum, item) => sum + (item.cantidad * item.precio), 0);
     
     const mensaje = `
 <b>NUEVA COMPRA REALIZADA</b>\n
@@ -63,28 +62,29 @@ ${carrito.map(item => `
     try {
       await enviarMensajeTelegram(mensaje);
       alert('¡Compra exitosa! Se ha enviado la confirmación por Telegram.');
-      // Aquí puedes agregar lógica para vaciar el carrito
+      vaciarCarrito(); // Vacía el carrito usando el contexto
+      navigate('/'); // Redirige a la página principal
     } catch (error) {
       alert('Error al procesar la compra. Por favor intente nuevamente.');
     }
   };
   
-    return (
-      <div className="contenedor-carrito">
-        <div className="caja-carrito">
-        <Link to="/" className="boton-volver">
-            ← Volver
-        </Link>
+  return (
+    <div className="contenedor-carrito">
+      <div className="caja-carrito">
+        <button onClick={() => navigate(-1)} className="boton-volver">
+          ← Volver
+        </button>
           
-          <h1 className="titulo-carrito">Tu Carrito de Compras</h1>
+        <h1 className="titulo-carrito">Tu Carrito de Compras</h1>
         
-          {carrito.length === 0 ? (
-            <p className="carrito-vacio">El carrito está vacío</p>
-          ) : (
-            <>
-              <div className="lista-carrito">
-                {carrito.map(item => (
-                  <div key={item.codigo} className="item-carrito">
+        {carrito.length === 0 ? (
+          <p className="carrito-vacio">El carrito está vacío</p>
+        ) : (
+          <>
+            <div className="lista-carrito">
+              {carrito.map(item => (
+                <div key={item.codigo} className="item-carrito">
                   <img 
                     src={item.imagen} 
                     alt={item.descripcion}
@@ -109,8 +109,10 @@ ${carrito.map(item => `
                     🗑️ Eliminar
                   </button>
                 </div>
-                ))}
-              </div>
+              ))}
+            </div>
+            
+            <form className="formulario-cliente" onSubmit={handleSubmit}></form>
               
             <form className="formulario-cliente" onSubmit={handleSubmit}>
               <h3 className="titulo-formulario">Información del Cliente</h3>

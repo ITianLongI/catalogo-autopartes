@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './ListaArticulos.css';
 import { useNavigate } from 'react-router-dom';
+import { useCarrito } from '../context/CarritoContext';
 
 const ListaArticulos = ({ carrito, añadirAlCarrito }) => {
   const navigate = useNavigate();
@@ -13,6 +14,7 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [timeoutId, setTimeoutId] = useState(null);
   const itemsPerPage = 20;
+  const { carrito, añadirAlCarrito } = useCarrito();
 
   const handleSearch = (text) => {
     setSearchTerm(text);

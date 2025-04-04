@@ -1,9 +1,9 @@
-import { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import ListaArticulos from './components/ListaArticulos';
-import Carrito from './components/Carrito';
+// client/src/context/CarritoContext.js
+import { createContext, useContext, useState } from 'react';
 
-function App() {
+const CarritoContext = createContext();
+
+export const CarritoProvider = ({ children }) => {
   const [carrito, setCarrito] = useState([]);
 
   const añadirAlCarrito = (articulo) => {
@@ -17,7 +17,6 @@ function App() {
   };
 
   const actualizarCantidad = (codigo, nuevaCantidad) => {
-    if (nuevaCantidad < 1) return;
     setCarrito(prev =>
       prev.map(item =>
         item.codigo === codigo ? { ...item, cantidad: nuevaCantidad } : item
@@ -28,17 +27,24 @@ function App() {
   const eliminarDelCarrito = (codigo) => {
     setCarrito(prev => prev.filter(item => item.codigo !== codigo));
   };
+  const vaciarCarrito = () => {
+    setCarrito([]);
+  };
+  
 
   return (
-    <CarritoProvider>
-      <Router>
-        <Routes>
-          <Route path="/" element={<ListaArticulos />} />
-          <Route path="/carrito" element={<Carrito />} />
-        </Routes>
-      </Router>
-    </CarritoProvider>
+    <CarritoContext.Provider
+    value={{
+        carrito,
+        añadirAlCarrito,
+        actualizarCantidad,
+        eliminarDelCarrito,
+        vaciarCarrito // ← Nueva función
+      }}
+    >
+      {children}
+    </CarritoContext.Provider>
   );
-}
+};
 
-export default App;
+export const useCarrito = () => useContext(CarritoContext);
