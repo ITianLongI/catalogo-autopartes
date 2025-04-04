@@ -91,7 +91,7 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => {
         <div className="titulo-principal">
           <span>CATÁLOGO GENERAL</span>
         </div>
-        <button className="boton-carrito" onClick={mostrarCarrito}>
+        <button className="boton-carrito" >
           CARRITO ({carrito.reduce((acc, item) => acc + item.cantidad, 0)})
         </button>
       </header>
