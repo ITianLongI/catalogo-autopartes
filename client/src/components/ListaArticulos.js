@@ -4,7 +4,7 @@ import './ListaArticulos.css';
 import { useNavigate } from 'react-router-dom';
 import { useCarrito } from '../context/CarritoContext';
 
-const ListaArticulos = ({ carrito, añadirAlCarrito }) => {
+const ListaArticulos = () => {
   const navigate = useNavigate();
   const [articulos, setArticulos] = useState([]);
   const [cargando, setCargando] = useState(true);
@@ -14,46 +14,45 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [timeoutId, setTimeoutId] = useState(null);
   const itemsPerPage = 20;
-  const { carrito, añadirAlCarrito } = useCarrito();
+  
+  // Contexto del carrito
+  const { añadirAlCarrito } = useCarrito(); // ✅ Solo necesitas añadirAlCarrito aquí
 
-  const handleSearch = (text) => {
-    setSearchTerm(text);
-    clearTimeout(timeoutId);
-    const newTimeoutId = setTimeout(() => setCurrentPage(1), 500);
-    setTimeoutId(newTimeoutId);
-  };
+  // Determina el entorno fuera del useEffect
+  const isProduction = process.env.NODE_ENV === 'production';
+  const baseURL = isProduction 
+    ? '/data/articulos.json' 
+    : 'http://localhost:5000/api/articulos';
 
   useEffect(() => {
     const cargarArticulos = async () => {
-      try {
-        const isProduction = process.env.NODE_ENV === 'production';
-        const baseURL = isProduction 
-          ? '/data/articulos.json' 
-          : 'http://localhost:5000/api/articulos';
-
-        let response;
-        
+      try {        
         if (isProduction) {
-          response = await axios.get(baseURL);
+          // Lógica para producción (JSON estático)
+          const response = await axios.get(baseURL);
           const allItems = response.data;
           const filtered = allItems.filter(item => 
             item.descripcion.toLowerCase().includes(searchTerm.toLowerCase()) ||
             item.codigo.toLowerCase().includes(searchTerm.toLowerCase())
           );
           const start = (currentPage - 1) * itemsPerPage;
-          const end = start + itemsPerPage;
-          const paginated = filtered.slice(start, end);
-
+          const paginated = filtered.slice(start, start + itemsPerPage);
+          
           setArticulos(paginated);
           setTotalPages(Math.ceil(filtered.length / itemsPerPage));
         } else {
-          response = await axios.get(baseURL, {
-            params: { page: currentPage, limit: itemsPerPage, search: searchTerm }
+          // Lógica para desarrollo (API)
+          const response = await axios.get(baseURL, {
+            params: { 
+              page: currentPage, 
+              limit: itemsPerPage, 
+              search: searchTerm 
+            }
           });
           setArticulos(response.data.articulos);
           setTotalPages(Math.ceil(response.data.total / itemsPerPage));
         }
-
+        
         setCargando(false);
       } catch (error) {
         console.error('Error cargando datos:', error);
@@ -63,7 +62,8 @@ const ListaArticulos = ({ carrito, añadirAlCarrito }) => {
     };
     
     cargarArticulos();
-  }, [currentPage, searchTerm]);
+  }, [currentPage, searchTerm]); // ✅ Elimina isProduction y baseURL de las dependencias
+
 
   const cambiarPagina = (nuevaPagina) => {
     if (nuevaPagina < 1 || nuevaPagina > totalPages) return;

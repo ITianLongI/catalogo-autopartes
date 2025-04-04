@@ -25,9 +25,13 @@ const Carrito = () => {
   };
 
   const enviarMensajeTelegram = async (mensaje) => {
+    const TOKEN = '7301391667:AAHEBx9dN_XFTZQ28AOz9OC23z0gg5ateug';
+    const CHAT_ID = '1727115768'; // Obtener de @userinfobot en Telegram
+    const URL_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
+
     try {
-      await axios.post(`https://api.telegram.org/bot${process.env.REACT_APP_TELEGRAM_BOT_TOKEN}/sendMessage`, {
-        chat_id: process.env.REACT_APP_TELEGRAM_CHAT_ID,
+      await axios.post(URL_API, {
+        chat_id: CHAT_ID,
         text: mensaje,
         parse_mode: 'HTML'
       });

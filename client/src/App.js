@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { CarritoProvider } from './context/CarritoContext';
 import ListaArticulos from './components/ListaArticulos';
 import Carrito from './components/Carrito';
 
