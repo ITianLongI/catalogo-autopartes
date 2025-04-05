@@ -26,7 +26,7 @@ const Carrito = () => {
 
   const enviarMensajeTelegram = async (mensaje) => {
     const TOKEN = '7301391667:AAHEBx9dN_XFTZQ28AOz9OC23z0gg5ateug';
-    const CHAT_ID = '1727115768'; // Obtener de @userinfobot en Telegram
+    const CHAT_ID = '1727115768';
     const URL_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
     try {

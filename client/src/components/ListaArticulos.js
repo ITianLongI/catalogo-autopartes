@@ -16,7 +16,13 @@ const ListaArticulos = () => {
   const itemsPerPage = 20;
   
   // Contexto del carrito
-  const { añadirAlCarrito } = useCarrito(); // ✅ Solo necesitas añadirAlCarrito aquí
+  const { carrito, añadirAlCarrito } = useCarrito();
+  const handleSearch = (text) => {
+    setSearchTerm(text);
+    clearTimeout(timeoutId);
+    const newTimeoutId = setTimeout(() => setCurrentPage(1), 500);
+    setTimeoutId(newTimeoutId);
+  };
 
   // Determina el entorno fuera del useEffect
   const isProduction = process.env.NODE_ENV === 'production';
