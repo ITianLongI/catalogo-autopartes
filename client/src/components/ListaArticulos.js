@@ -92,7 +92,7 @@ const ListaArticulos = () => {
             className="input-buscador"
           />
         </div>
-        <div className="marca">IPS AUTOPARTES</div>
+        <div className="marca">RacingTec</div>
         <div className="titulo-principal">
           <span>CATÁLOGO GENERAL</span>
         </div>
